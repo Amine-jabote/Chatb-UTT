@@ -1,0 +1,25 @@
+ISI :
+
+"NF21": {
+    "branche": "ISI",
+    "contenu": "Description détaillée du contenu...",
+    "objectif_pédagogique": "Objectif de la matière...",
+    "technologies": ["Python", "C", "C++", "Docker"],
+    "métiers": ["data scientist", "data engineer", "data analyst"]
+},
+
+-Ajouter des UE de ISI ici 
+
+
+
+
+TC :
+
+-Ajouter des UE du TC ici 
+
+
+RT :
+
+-Ajouter des UE de RT ici
+
+
