@@ -23,7 +23,7 @@ RT :
     "Titre": "Théorie et codage de l'information",
     "Type": "CS",
     "Credits": 6,
-    "repartition": {C: "28h", "TD": "28h", "THE": "94h"},
+    "repartition": {"C": "28h", "TD": "28h", "THE": "94h"},
     "Disponibilite": ["Automne"],
     "Langue": "francais",
     "branche": ["RT"],
