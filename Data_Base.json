@@ -19,7 +19,20 @@ TC :
 
 
 RT :
-
--Ajouter des UE de RT ici
+"IF01": {
+    "Titre": "Théorie et codage de l'information",
+    "Type": "CS",
+    "Credits": 6,
+    "repartition": {C: "28h", "TD": "28h", "THE": "94h"},
+    "Disponibilite": ["Automne"],
+    "Langue": "francais",
+    "branche": ["RT"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre le fonctionnement d'un système de communication \n -savoir quantifier l'information au sens de Shannon \n -modéliser une source d'information \n -coder l'information émise par une source discrète \n -modéliser un canal de transmission \n -comprendre le codage canal robuste face au bruit",
+    "objectif": "Devant l'ampleur actuelle des technologies de communications, il est important de comprendre le fonctionnement des systèmes de communication et la manipulation de l'information mise en jeu.",
+    "technologies": ["aucune Technologie"],
+    "Modalite": ["median", "final"],
+    "métiers": ["Ingénieur en télécommunications", "Ingénieur en traitement du signal", "Développeur en compression de données","Ingénieur en sécurité des communications","Chercheur en intelligence artificielle et apprentissage automatique","Consultant en analyse de données"]
+},
 
 
