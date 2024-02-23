@@ -68,6 +68,92 @@ ISI :
 },
 
 
+"NF16": {
+    "Titre": "Concevoir et manipuler des bases de données",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","TP": "14h", "THE" : "80h" ,"PRJ" : "10h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI", "SN", "RT"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre l'architecture d'un système de gestion de base de données \n -réaliser un modèle conceptuel de données Entité / Association \n -transformer un modèle conceptuel en modèle logique de données relationnel en 4NF \n -formaliser l'interrogation de bases de données au moyen du calcul relationnel et de l'algèbre relationnelle \n -construire, interroger et modifier une base de données MySQL \n -utiliser le langage SQL pour créer et manipuler une base de données \n -concevoir une base de données en fonction d'exigences fonctionnelles \n -optimiser les accès aux bases de données",
+    "Objectif" : "L'objectif de l'UE est de comprendre et mettre en oeuvre les concepts fondamentaux liés à la mise en place et l'utilisation des bases de données relationnelles.",
+    "Technologies" : ["MySQL", "SQL"],
+    "Modalite" : ["final", "projet", "median", "controles continus"],
+    "Métiers" : ["Administrateur de base de données", "Développeur de bases de données", "Analyste de données", "Architecte de données", "Ingénieur en bases de données", "Consultant en bases de données", "Analyste en gestion de bases de données", "Spécialiste en optimisation de bases de données", "Expert en langage SQL", "Développeur de systèmes d'information"],
+    "OuvertTC" : false
+},
+
+"IF14": {
+    "Titre": "Modéliser une organisation et ses métiers",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "14h", "TD" : "28h","THE" : "108h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-faire passer un entretien semi-directif à un professionnel \n -analyser le vocabulaire de l'entreprise (diagramme de classes ou d'objets UML) \n -analyser les flux de l'entreprise (diagramme d'activité UML) \n -analyser l'organisation de l'entreprise (configurations de H. Mintzberg) \n -analyser les tâches du professionnel (diagramme d'activité UML)",
+    "Objectif" : "Le numérique a la capacité de transformer la gestion d'une organisation (entreprise, association...). Pour que cet impact soit bénéfique pour tous, il faut préalablement s'intéresser à cette organisation, à ses membres, à ce qu'ils font et comment",
+    "Technologies" : ["UML"],
+    "Modalite" : ["final", "projet", "controles continus"],
+    "Métiers" : ["Analyste d'organisation", "Consultant en gestion des processus", "Analyste en systèmes d'information", "Architecte d'entreprise", "Consultant en gestion du changement", "Expert en modélisation d'entreprise", "Spécialiste en analyse des flux de travail", "Consultant en stratégie organisationnelle", "Analyste des opérations", "Conseiller en restructuration organisationnelle"],
+    "OuvertTC" : true
+},
+
+"LO02": {
+    "Titre": "Principe et pratique de la programmation orientée objets",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","TP" : "18h","THE" : "76h" ,"PRJ" : "70h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI", "A2I", "RT", "SN"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre les concepts de l'approche orientée objet et les traduire en UML et en Java \n -connaître et réutiliser les bibliothèques et fonctions essentielles de Java SE (Standard Edition) \n -concevoir une architecture orientée objet sur la base d'exigences fonctionnelles \n -connaître et savoir intégrer des patrons de conception élémentaires dans la production de code \n -documenter une API avec Javadoc",
+    "Objectif" : "L'objectif de cette UV est de comprendre et utiliser l'approche orientée objet pour la mise en œuvre de projets logiciels. Elle propose de mener de front la conception détaillée (en UML) et le développement (en Java) d'un même projet.",
+    "Technologies" : ["Java", "UML", "Javadoc", "Java SE"],
+    "Modalite" : ["final", "projet", "median"],
+    "Métiers" : ["Développeur logiciel orienté objet", "Architecte logiciel", "Ingénieur en développement logiciel", "Concepteur de logiciels", "Analyste programmeur orienté objet", "Consultant en développement logiciel", "Expert en conception orientée objet", "Développeur Java", "Ingénieur logiciel Java", "Analyste en conception logicielle"],
+    "OuvertTC" : true
+},
+
+"NF19": {
+    "Titre": "Maîtriser les fondamentaux de l'infrastructure informatique",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","THE" : "94h" ,"PRJ" : "45h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-identifier les différents composants de l'infrastructure informatique (ex : systèmes d'exploitation, gestion des données et stockage, plateformes de mise en réseau, ...) \n -identifier les tâches nécessaires pour mettre en place et maintenir une infrastructure informatique \n -décrire les principales architectures techniques (ex : architectures transactionnelles, Client-Serveur, ...) \n -distinguer les principales techniques de l'optimisation des infrastructures physiques (ex: Virtualisation, Cloud Computing, Converged Infrastructure...) \n -identifier les éléments d'un système de gestion de base de données (SGBD, Oracle) \n -proposer et mettre en place, à partir d'un cas d'étude, une infrastructure informatique pertinente",
+    "Objectif" : "A la fin de ce cours, l'étudiant sera en mesure de mettre en œuvre une infrastructure logicielle et la faire évoluer pour répondre au mieux aux besoins des usagers.",
+    "Technologies" : ["SGBD", "Oracle", "VAWS", "Docker"],
+    "Modalite" : ["final", "projet", "controles continus"],
+    "Métiers" : ["Administrateur système", "Ingénieur réseau", "Administrateur de bases de données", "Architecte cloud", "Ingénieur en virtualisation", "Architecte en sécurité informatique", "Consultant en infrastructure informatique", "Analyste en gestion des données", "Spécialiste en stockage de données", "Ingénieur DevOps"],
+    "OuvertTC" : true
+},
+
+"NF21": {
+    "Titre": "Conception de projet Data pour l'innovation",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "30h","THE" : "92h" ,"PRJ" : "60h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-analyser le contexte d'une problématique data \n -comprendre le concept d'innovation par la donnée (Data-driven Innovation) \n -identifier et cartographier les gisements de données potentiellement porteurs d'innovation \n -évaluer le périmètre d'un projet Data \n -concevoir un projet data pour innover dans l'entreprise \n -piloter et maintenir un projet Data",
+    "Objectif" : "L'innovation par la donnée est devenue un enjeu majeur pour les entreprises. La réussite des projets orientés Data constitue le cœur de la stratégie d'innovation de plusieurs entreprises. Elle est en grande partie basée sur la maîtrise de bout en bout des étapes de transformation de la donnée en valeur.",
+    "Technologies" : ["Omniscope"],
+    "Modalite" : ["final", "projet", "controles continus"],
+    "Métiers" : ["Administrateur système", "Ingénieur réseau", "Administrateur de bases de données", "Architecte cloud", "Ingénieur en virtualisation", "Architecte en sécurité informatique", "Consultant en infrastructure informatique", "Analyste en gestion des données", "Spécialiste en stockage de données", "Ingénieur DevOps"],
+    "OuvertTC" : true
+},
+
+
 
 
 
