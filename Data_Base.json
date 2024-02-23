@@ -130,7 +130,7 @@ ISI :
     "Filiere": ["TCBR"],
     "Programme": "-identifier les différents composants de l'infrastructure informatique (ex : systèmes d'exploitation, gestion des données et stockage, plateformes de mise en réseau, ...) \n -identifier les tâches nécessaires pour mettre en place et maintenir une infrastructure informatique \n -décrire les principales architectures techniques (ex : architectures transactionnelles, Client-Serveur, ...) \n -distinguer les principales techniques de l'optimisation des infrastructures physiques (ex: Virtualisation, Cloud Computing, Converged Infrastructure...) \n -identifier les éléments d'un système de gestion de base de données (SGBD, Oracle) \n -proposer et mettre en place, à partir d'un cas d'étude, une infrastructure informatique pertinente",
     "Objectif" : "A la fin de ce cours, l'étudiant sera en mesure de mettre en œuvre une infrastructure logicielle et la faire évoluer pour répondre au mieux aux besoins des usagers.",
-    "Technologies" : ["SGBD", "Oracle", "VAWS", "Docker"],
+    "Technologies" : ["SGBD", "Oracle", "AWS", "Docker"],
     "Modalite" : ["final", "projet", "controles continus"],
     "Métiers" : ["Administrateur système", "Ingénieur réseau", "Administrateur de bases de données", "Architecte cloud", "Ingénieur en virtualisation", "Architecte en sécurité informatique", "Consultant en infrastructure informatique", "Analyste en gestion des données", "Spécialiste en stockage de données", "Ingénieur DevOps"],
     "OuvertTC" : true
