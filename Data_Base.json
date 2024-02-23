@@ -273,6 +273,228 @@ ISI :
     "OuvertTC" : false
 },
 
+"ISI_C01": {
+    "Titre": "Introduction au Big Data",
+    "Type": "TM",
+    "Credits": 3,
+    "Repartition": {"THE" : "75h"},
+    "Disponibilité": ["Printemps", "Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","IPL","VDC"],
+    "Programme": "traduire les défis du Big Data en capacités d'action au quotidien dans l'entreprise \n analyser le contexte des évolutions technologiques du Big Data \n classer les problématiques suivant les types d'algorithmes pour les aborder \n présenter les composantes et les interactions entre acteurs et enjeux du Big Data \n travailler en mode projet pour analyser, concevoir et rendre des livrables",
+    "Objectif" : "La révolution du Big data Identifier et comprendre un contexte Big Data dans l'entreprise. La mise en œuvre de projet Big Data demande une certaine maîtrise des environnements et technologies et surtout la compréhension des impacts des choix que nous serons amenés à faire. L'exploitation des données (pas forcément en grande volumétrie) est devenue l'une des armes stratégiques pour les organisations et les états. Grâce aux Big Data il est possible aujourd'hui d'analyser des données hétérogènes pour construire des services et produits à forte valeur ajoutée.",
+    "Technologies" : ["Big Data"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Data Analyst", "Data Scientist", "Ingénieur Big Data", "Architecte Big Data", "Développeur Big Data", "Ingénieur en Intelligence Artificielle", "Spécialiste en Analyse de Données", "Consultant en Big Data", "Responsable de la Gestion des Données", "Analyste en Business Intelligence"],
+    "OuvertTC" : false
+},
+
+"ISI_C02": {
+    "Titre": "Nudge et persuasive computing",
+    "Type": "TM",
+    "Credits": 3,
+    "Repartition": {"THE" : "75h"},
+    "Disponibilité": ["Printemps", "Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","IPL","VDC"],
+    "Programme": "analyse critique \n mobilisation de ressources scientifiques et techniques \n ingénierie des systèmes persuasifs \n évaluation des systèmes persuasifs",
+    "Objectif" : "exprimer les enjeux du PC, reformuler les enjeux du PC en intégrant la dimension éthique dans la pratique de l'ingénierie \n comprendre les concepts issus des théories de la persuasion et de l'influence \n définir les principes persuasifs et ludopersuasifs \n acquérir les bases de la ludicisation (gamification) et de son usage \n produire des scénarios d'usage \n utiliser les principes persuasifs et ludopersuasifs dans la conception de systèmes",
+    "Technologies" : ["Persuasive Computing"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Consultant en persuasion numérique", "Concepteur de systèmes persuasifs", "Analyste en ergonomie et persuasion", "Ingénieur en conception d'interfaces persuasives", "Expert en expérience utilisateur et persuasion"],
+    "OuvertTC" : false
+},
+
+"ISI_C03": {
+    "Titre": "Enjeux et technologies pour les Smart Cities",
+    "Type": "TM",
+    "Credits": 3,
+    "Repartition": {"THE" : "75h"},
+    "Disponibilité": ["Printemps", "Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","IPL","VDC"],
+    "Programme": "-comprendre le concept des villes et territoires intelligents et identifier leurs enjeux \n mesurer les enjeux technologiques des villes intelligentes \n analyser et évaluer quelques vecteurs de la ville intelligente : transport intelligent, réseaux énergétiques \n analyser la gouvernance et l'administration de la ville intelligente et la place du citoyen",
+    "Objectif" : "Ce cours traite de la compréhension du concept de smart cities et analyse les enjeux technologiques des villes intelligentes. Il s'agit également de comprendre l'impact de ces transformations technologiques sur le citoyen et sur la gouvernance et l'administration de ces cilles.",
+    "Technologies" : ["Smart Cities"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Consultant en développement urbain intelligent", "Analyste en technologie des villes intelligentes", "Ingénieur en systèmes de transport intelligents", "Expert en gouvernance des villes intelligentes"],
+    "OuvertTC" : false
+},
+
+"ISI_C04": {
+    "Titre": "Travailler de manière collaborative sur les plateformes numériques",
+    "Type": "TM",
+    "Credits": 3,
+    "Repartition": {"THE" : "75h"},
+    "Disponibilité": ["Printemps", "Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI","GM",],
+    "Filiere": ["ATN","IPL","VDC","MDPI"],
+    "Programme": "Le Travail Coopératif Assisté par Ordinateur \n - présentation des principaux courants de recherche \n - expliquer l'intérêt de l'analyse scientifique du travail coopératif informatisé \n - évolution des technologies \n La sociologie du travail et des organisations \n - comprendre les tensions entre injonction au travail collaboratif et fonctionnement organisationnel \n - mobiliser la sociologie du travail et des organisations pour analyser les collectifs en présence \n - identifier des leviers organisationnels pour créer les conditions d'une appropriation collective des outils \n Méthodes et techniques pour construire un agir collaboratif plateformisé \n - définitions et caractéristiques de l'agir collaboratif plateformisé \n - méthode des 4 ASTM: comment construire un agir collaboratif en groupe \n - patterns de pratiques collaboratives avec Microsoft Teams",
+    "Objectif" : "Savoir mobiliser en situation professionnelle les connaissances des fondamentaux théoriques et pratiques du travail coopératif en ligne pour mettre en œuvre les méthodes, techniques, et outils permettant de construire un agir collaboratif sur une plateforme numérique de collaboration.",
+    "Technologies" : ["Microsoft Teams"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Consultant en travail collaboratif", "Analyste en travail coopératif", "Ingénieur en travail collaboratif", "Expert en plateformes collaboratives", "Responsable de projet collaboratif"],
+    "OuvertTC" : false
+},
+
+"ISI_C05": {
+    "Titre": "Réseau de neurones et Machine Learning",
+    "Type": "TM",
+    "Credits": 3,
+    "Repartition": {"THE" : "75h"},
+    "Disponibilité": ["Printemps", "Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","IPL","VDC"],
+    "Programme": "-appréhender les domaines de l'IA dans le monde professionnel \n - s'initier aux principes des techniques d'apprentissage basées sur les réseaux de neurones et le Machine Learning \n - prise en main d'outils d'apprentissage \n - mise en pratique avec des exemples simples",
+    "Objectif" : "L'Intelligence Artificielle et notamment les techniques des réseaux de neurones et du maching learning sont en plein essor dans notre société numérique. Cette capsule, illustrée par des exemples et des démonstrations pédagogiques sur des jeux de données, propose une approche didactique pour s'initier au fondamentaux de ces techniques d'IA.",
+    "Technologies" : ["Réseaux de neurones", "Machine Learning"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Data Scientist", "Ingénieur en Intelligence Artificielle", "Spécialiste en Analyse de Données", "Consultant en Intelligence Artificielle", "Analyste en Machine Learning"],
+    "OuvertTC" : false
+},
+
+"ISI_C06": {
+    "Titre": "Protection des données personnelles (RGPD)",
+    "Type": "TM",
+    "Credits": 3,
+    "Repartition": {"THE" : "75h"},
+    "Disponibilité": ["Printemps", "Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","IPL","VDC"],
+    "Programme": "-connaître les concepts, les bases juridiques et les enjeux du RGPD \n-réaliser une mise en conformité avec les règles de protection des données \n-savoir adapter le cycle de vie de la donnée (de la collecte à l'archivage avec perte de données) \n-maîtriser les contraintes du RGPD sur la conception et le développement d'applications informatiques \n-réaliser une analyse d'impact relative à la protection des données (AIPD) avec l'outil PIA (Privacy Impact Assessment) de la CNIL",
+    "Objectif" : "Connaissance et application des aspects règlementaires du Règlement Général sur la Protection des Données (RGPD) dans le domaine de la conception et du développement d4applications informatiques.",
+    "Technologies" : ["RGPD", "PIA"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Consultant en protection des données", "Analyste en protection des données", "Ingénieur en protection des données", "Expert en conformité RGPD", "Responsable de la protection des données"],
+    "OuvertTC" : false
+},
+
+"IF06A": {
+    "Titre": "Computer Supported Cooperative Work",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h" ,"PRJ" : "45h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["ISI"],
+    "Filiere": ["IPL","ATN"],
+    "Programme": "understanding the most important research traditions and problem statements within the field \n-conducting observation work \n-identifying collaborative practices \n-incorporating insights from observation work into system design \n-coordinating participatory design sessions \n-discussing concepts in the field of computer-supported cooperative work (coordination, cooperation, collaborative mechanisms and artefacts, practice-based computing, design case study, awareness, knowledge sharing, heuristic evaluation, scenario-based design,...)",
+    "Objectif" : "This course provides a survey of the social, organizational, and technical concepts and issues involved in designing, developing, deploying, and evaluating software systems supporting cooperation and coordination in organizations.",
+    "Technologies" : ["CSCW"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Consultant en travail collaboratif", "Analyste en travail coopératif", "Ingénieur en travail collaboratif", "Expert en plateformes collaboratives", "Responsable de projet collaboratif"],
+    "OuvertTC" : false
+},
+
+"IF09": {
+    "Titre": "Systèmes documentaires",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","IPL"],
+    "Programme": "analyser les propriétés des flux documentaires d'une activité \n-choisir les modèles (de preuve, stockage, description, révision, indexation matière, hypermédia) adaptés à chaque type de document \n-concevoir une architecture documentaire complète et cohérente \n-évaluer des logiciels ou des normes documentaires en fonction des besoins \n-mettre en œuvre des traitements spécifiques de fouille et de transformation de textes structurés",
+    "Objectif" : "Les professions intellectuelles produisent et interprètent, non des données, mais des documents. Concevoir leur système d'information nécessite de transposer des pratiques documentaires séculaires dans des environnements numériques.",
+    "Technologies" : ["Systèmes documentaires"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Consultant en systèmes documentaires", "Analyste en systèmes documentaires", "Ingénieur en systèmes documentaires", "Expert en systèmes documentaires", "Responsable de projet documentaire"],
+    "OuvertTC" : false
+},
+
+"IF17": {
+    "Titre": "Valoriser des données pour la décision",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "4h", "TP" : "28h" ,"THE" : "90h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["VDC"],
+    "Programme": "-comprendre les enjeux et spécificités des projets décisionnels \n-comprendre la modélisation des entrepôts de données \n-comprendre les problèmes d'approvisionnement de données et manipuler un outil dédié \n-manipuler un outil de restitution \n-comprendre le rôle de l'analyse de données (à une et plusieurs variables) \n-avoir un aperçu des méthodes de décision et d'apprentissage (ACP, Arbre de décision, SVM, CNN...) \n-comprendre les projets et méthodes décisionnels à travers des témoignages et des publications",
+    "Objectif" : "Connaître les enjeux, les modèles et les outils pour la conception de systèmes d'information à vocation décisionnelle. Le module comporte deux parties principales : les entrepôts de données et l'exploitation des données à des fins décisionnelles.",
+    "Technologies" : ["R", "Matlab"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Consultant en décisionnel", "Analyste en décisionnel", "Ingénieur en décisionnel", "Expert en décisionnel", "Responsable de projet décisionnel"],
+    "OuvertTC" : false
+},
+
+"IF19": {
+    "Titre": "Réaliser un diagnostic organisationnel",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","THE" : "94h", "PRJ" : "25h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN"],
+    "Programme": "-analyser des situations de travail en mobilisant les principales théories de sociologie des organisations \n-identifier de manière systémique les enjeux métiers liés au système d'information (question du changement, des identités professionnelles, rapports maîtrise d'œuvre/maîtrise d'ouvrage, etc.) \n-aligner les systèmes d'information et l'organisation (du travail, des activités métier) \n-aligner les systèmes d'information et l'organisation en tenant compte des écarts entre prescrit et réel \n-analyser les jeux d'acteurs et les ressorts de la coopération et de l'engagement au travail pour identifier les conditions de réussite des transformations",
+    "Objectif" : "	
+    En adoptant des grilles d'analyse sociologiques sur le fonctionnement des organisations, l'UE apprend à réaliser un diagnostic situé afin de dégager des freins et leviers pour accompagner une situation de changement et l'ingénierie des SI.",
+    "Technologies" : ["Sociologie des organisations"],
+    "Modalite" : ["median", "final", "expose", "dossier"],
+    "Métiers" : ["Consultant en organisation", "Analyste en organisation", "Ingénieur en organisation", "Expert en organisation", "Responsable de projet organisationnel"],
+    "OuvertTC" : false
+},
+
+"IF20": {
+    "Titre": "Modélisation de processus métier",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","THE" : "94h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN"],
+    "Programme": "-identifier et modéliser des processus \n-maîtriser pratiquer un outil logiciel de modélisation de processus \n-gérer un projet de modélisation de processus \n-lier modélisation de processus et conception des applications du Système d'Information",
+    "Objectif" : "L'approche par les processus est au cœur du management moderne des entreprises. Dans cette approche, les processus actuels sont décrits et optimisés, et de nouveaux processus sont conçus ainsi que les Systèmes d'Information associés. Ce cours enseigne la modélisation de processus qui est le prérequis d'une adoption de l'approche par les processus.",
+    "Technologies" : ["ARIS"],
+    "Modalite" : ["final","projet"],
+    "Métiers" : ["Consultant en processus", "Analyste en processus", "Ingénieur en processus", "Expert en processus", "Responsable de projet processus"],
+    "OuvertTC" : false
+},
+
+"IF26": {
+    "Titre": "Conception sécurisée d'applications mobiles",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","THE" : "94h" ,"PRJ" : "70h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["IPL"],
+    "Programme": "-utiliser un environnement de développement de logiciel (Android Studio) \n-maîtriser les concepts du développement d'une application mobile Android (activity, fragment,...) \n-sélectionner les modèles de données adaptés aux contraintes \n-organiser l'alimentation des bases de données locales et l'exploitation des données collectées (SQLiteOpenHelper et Room) \n-maîtriser les design patterns mobiles (MVC, MVP, MVVM et l'Android Architecture Components (ViewModel, Livedata, Repository) \n-mettre en œuvre les principes de sécurisation et de protection des données à caractères personnel(RGPD)",
+    "Objectif" : "Comprendre les méthodes et outils de conception d'applications mobiles Android sécurisés.",
+    "Technologies" : ["Android Studio", "SQLiteOpenHelper", "Room", "MVC", "MVP", "MVVM", "Android Architecture Components"],
+    "Modalite" : ["expose","projet", "controles continus"],
+    "Métiers" : ["Consultant en sécurité mobile", "Analyste en sécurité mobile", "Ingénieur en sécurité mobile", "Expert en sécurité mobile", "Responsable de projet sécurité mobile"],
+    "OuvertTC" : false
+},
+
+"IF28": {
+    "Titre": "Fouille de données et connaissances",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TP" : "28h","THE" : "94h" ,"PRJ" : "60h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["VDC"],
+    "Programme": "-identifier dans une activité humaine des points d'amélioration de la transmission de savoirs et savoir-faire \n-repérer des sources mobilisables (données et textes) \n-choisir des traitements de fouille de données et de textes produisant des résultats interprétables \n-modéliser sous forme d'un graphe des propositions singulières (RDF) et universelles (RDFS, OWL), les utiliser dans des requêtes (SPARQL) \n-accompagner une modélisation par les usagers (modèle entité-attribut-valeur,facettes, thésaurus, points de vue, etc.) \n-mettre à l'épreuve les modèles de connaissances et gérer leurs évolutions",
+    "Objectif" : "Les entreprises, les services publics, les associations ont accumulé de grandes quantités de données. Des techniques et méthodes issues notamment de la fouille de données et du Web sémantique permettent d'en tirer des connaissances utiles à l'action.",
+    "Technologies" : ["RDF", "RDFS", "OWL", "SPARQL"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Consultant en fouille de données", "Analyste en fouille de données", "Ingénieur en fouille de données", "Expert en fouille de données", "Responsable de projet fouille de données"],
+    "OuvertTC" : false
+},
+
 
 
 
