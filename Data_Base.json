@@ -150,7 +150,7 @@ ISI :
     "Technologies" : ["Omniscope"],
     "Modalite" : ["final", "projet", "controles continus"],
     "Métiers" : ["Administrateur système", "Ingénieur réseau", "Administrateur de bases de données", "Architecte cloud", "Ingénieur en virtualisation", "Architecte en sécurité informatique", "Consultant en infrastructure informatique", "Analyste en gestion des données", "Spécialiste en stockage de données", "Ingénieur DevOps"],
-    "OuvertTC" : true
+    "OuvertTC" : false
 },
 
 
