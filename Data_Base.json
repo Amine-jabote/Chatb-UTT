@@ -149,7 +149,7 @@ ISI :
     "Objectif" : "L'innovation par la donnée est devenue un enjeu majeur pour les entreprises. La réussite des projets orientés Data constitue le cœur de la stratégie d'innovation de plusieurs entreprises. Elle est en grande partie basée sur la maîtrise de bout en bout des étapes de transformation de la donnée en valeur.",
     "Technologies" : ["Omniscope"],
     "Modalite" : ["final", "projet", "controles continus"],
-    "Métiers" : ["Administrateur système", "Ingénieur réseau", "Administrateur de bases de données", "Architecte cloud", "Ingénieur en virtualisation", "Architecte en sécurité informatique", "Consultant en infrastructure informatique", "Analyste en gestion des données", "Spécialiste en stockage de données", "Ingénieur DevOps"],
+    "Métiers" : ["Analyste de données", "Architecte de données", "Scientifique des données", "Ingénieur en données", "Consultant en stratégie de données", "Gestionnaire de projet Data", "Spécialiste en visualisation de données", "Analyste de business intelligence", "Expert en exploration de données", "Développeur Big Data"],
     "OuvertTC" : false
 },
 
