@@ -14,7 +14,7 @@ ISI :
     "Technologies" : ["Python", "Javascript", "Ruby", "Lua"],
     "Modalite" : ["final", "projet"],
     "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles"],
-    "OuvertTC" : False
+    "OuvertTC" : false
 },
 
 -Ajouter des UE de ISI ici 
