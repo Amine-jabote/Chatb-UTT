@@ -153,6 +153,126 @@ ISI :
     "OuvertTC" : false
 },
 
+"IF08": {
+    "Titre": "Management de projets informatiques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-appliquer les techniques, normes et méthodes de planification, mettre en place un plan d'activités \n -gérer les risques, proposer des mesures d'urgence efficaces \n -mettre en œuvre des techniques, normes et méthodes de travail collaboratif, coordonner des développements en équipe \n -produire de la documentation \n -gérer la relation client, accompagner le changement",
+    "Objectif" : "L'objectif de cette UE est l'appropriation des principes et techniques du management de projets informatiques, tant du point de vue de la maîtrise d4œuvre que de la maîtrise d'ouvrage.",
+    "Technologies" : ["Gantt"],
+    "Modalite" : ["controles continus", "projet"],
+    "Métiers" : ["Chef de projet informatique", "Chef de projet technique", "Chef de projet digital", "Manager de projet informatique", "Directeur de projet informatique", "Consultant en gestion de projet", "Responsable de bureau de projet", "Coordinateur de projet informatique", "Chargé de mission en gestion de projet", "Analyste de projet"],
+    "OuvertTC" : false
+},
+
+"IF37": {
+    "Titre": "Conception responsable de systèmes interactifs",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "30h", "THE" : "92h" ,"PRJ" : "60h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-assimiler les connaissances minimales sur le fonctionnement perceptif et cognitif pour l'interaction numérique \n -maîtriser l'interaction multimodale et les dispositifs d'entrée et d'affichage associés \n -se familiariser avec les dispositifs actuels (outils, langages, frameworks) de conception et développement de systèmes interactifs (WIMP et post-WIMP) \n -connaître les principes de la conception inclusive et soutenable en tenant compte de l'impact sur les composantes environnementale, humaine et sociale",
+    "Objectif" : "L'objectif de l'UE est de fournir les éléments (conceptuels, méthodologiques, techniques) de base pour la conception de systèmes interactifs responsables dans des contextes d'usage variés.",
+    "Technologies" : ["WIMP", "post-WIMP"],
+    "Modalite" : ["projet", "final"],
+    "Métiers" : ["Concepteur d'interfaces utilisateur", "Designer d'expérience utilisateur (UX Designer)", "Ergonome informatique", "Développeur d'applications interactives", "Architecte de l'interaction", "Chercheur en interaction homme-machine", "Responsable de la conception multimodale", "Consultant en conception d'interfaces", "Spécialiste en accessibilité numérique", "Analyste en expérience utilisateur (UX Analyst)"],
+    "OuvertTC" : false
+},
+
+"LO12": {
+    "Titre": "Comprendre et appliquer les bases de l'intelligence artificielle",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "30h", "THE" : "74h" ,"TP" : "20h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI","SN"],
+    "Filiere": ["TCBR"],
+    "Programme": "-représenter les connaissances en se basant sur la logique \n -mettre en oeuvre la programmation logique par le langage Prolog \n -utiliser différentes formes de raisonnement dans des outils de développement : systèmes à base de règles et générateur de systèmes experts (CLIPS); systèmes multi-agents (plateforme de développement Madkit) \n -représenter l'incertain et l'imprécis \n -s'initier à des concepts avancés : apprentissage automatique, méta-connaissances, machine learning supervisée ou non, raisonnement à partir de cas",
+    "Objectif" : "Les applications de l'intelligence artificielle sont en plein essor. L'objectif de l'UE est principalement de donner les bases de cette discipline, que sont la représentation des connaissances et le raisonnement.",
+    "Technologies" : ["Prolog", "CLIPS", "Madkit"],
+    "Modalite" : ["médian", "final"],
+    "Métiers" : ["Analyste fonctionnel", "Architecte de systèmes d'information", "Consultant en système d'information", "Ingénieur en système d'information", "Analyste en gestion des exigences", "Architecte logiciel", "Concepteur-développeur en informatique", "Chef de projet informatique", "Analyste en ingénierie des systèmes", "Expert en modélisation de systèmes d'information"],
+    "OuvertTC" : false
+},
+
+"EG23": {
+    "Titre": "Concevoir et développer des Interfaces Homme-Machine",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "16h","TP" : "28h","THE" : "78h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI", "SN"],
+    "Filiere": ["TCBR"],
+    "Programme": "concevoir et réaliser des interfaces homme-machine \n réaliser des maquettes et prototypes logiciels dans le cadre des interfaces homme-machine \n utiliser et maîtriser un environnement de développement d'interfaces logicielles \n connaître et appliquer les règles d'ergonomie logicielle \n savoir évaluer une interface logicielle",
+    "Objectif" : "Le développement d'applications doit nécessairement respecter certaines règles ergonomiques. L'étude des Interfaces Homme-Machine (IHM) est devenue essentielle quant à la future réussite du logiciel ou de l'application.",
+    "Technologies" : ["Lazarus","Pencil","Axure","Android Studio"],
+    "Modalite" : ["final", "projet", "controles continus"],
+    "Métiers" : ["Concepteur d'IHM", "Développeur d'interfaces utilisateur", "Ergonome logiciel", "Ingénieur en ergonomie des interfaces", "Designer d'expérience utilisateur"],
+    "OuvertTC" : false
+},
+
+"IF03": {
+    "Titre": "S'initier à la Sécurité des Systèmes d'Information",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","TP" : "16h","THE" : "78h" ,"PRJ" : "20h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI", "SN", "RT"],
+    "Filiere": ["TCBR"],
+    "Programme": "connaître les notions de disponibilité, intégrité, confidentialité et preuve \n connaître les architectures sécurisées (vpn, firewall, web, mobilité et wireless...) \n savoir sécuriser un poste de travail \n connaître les risques et les parades sur internet \n connaître la signature électronique et les base de la cryptographie et les problèmes de fuites d'informations \n savoir définir une politique de lutte contre les virus et malwares \n connaître les différents types d'audits sécurité \n connaître les bases juridiques (aspects réglementaires et normatifs)",
+    "Objectif" : "Appréhender les bases concernant la Sécurité des Systèmes d'Information en entreprise autant dans sa dimension technique, qu'organisationnelle et humaine.",
+    "Technologies" : ["VPN", "Firewall", "Web", "Mobilité", "Wireless", "Cryptographie", "Malwares", "Audits sécurité"],
+    "Modalite" : ["final", "TP", "controles continus"],
+    "Métiers" : ["Analyste en sécurité informatique", "Ingénieur en sécurité des systèmes d'information", "Consultant en cybersécurité", "Administrateur de la sécurité informatique", "Expert en cryptographie", "Auditeur en sécurité informatique", "Architecte de la sécurité des réseaux", "Spécialiste en lutte contre les malwares", "Responsable de la conformité réglementaire en sécurité informatique", "Expert en gestion des risques informatiques"],
+    "OuvertTC" : false
+},
+
+
+"LO07": {
+    "Titre": "Technologies du web",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","THE" : "94h" ,"PRJ" : "70h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI", "SN", "A2I"],
+    "Filiere": ["TCBR"],
+    "Programme": "-utiliser un environnement de développement de logiciels (Netbeans) \n concevoir et développer des interfaces Web (HTML, CSS et Bootstrap) \n maîtriser un langage de programmation orienté Web (PHP) et ses aspects orienté objet (POO) \n mettre en œuvre des solutions de gestion du contexte web via les cookies et les variables de session \n sélectionner les modèles de données adaptés aux contraintes de l'application et organiser l'alimentation des bases de données \n mettre en œuvre une application Web intégrant le patron de conception MVC (Modèle, Vue, Contrôleur)",
+    "Objectif" : "Comprendre et utiliser les briques logicielles nécessaires pour la conception et la réalisation d'applications Web en prenant en compte la persistance des données et les concepts des patrons de conception (MVC).",
+    "Technologies" : ["Netbeans", "HTML", "CSS", "Bootstrap", "PHP", "MVC"],
+    "Modalite" : ["final", "projet", "controles continus"],
+    "Métiers" : ["Analyste fonctionnel", "Architecte logiciel", "Concepteur-développeur en informatique", "Ingénieur en système d'information", "Développeur web", "Designer d'interfaces utilisateur", "Développeur d'applications web", "Chef de projet informatique"],
+    "OuvertTC" : true
+},
+
+"LO17": {
+    "Titre": "Architectures Cloud et virtualisation",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","THE" : "94h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI", "SN", "RT"],
+    "Filiere": ["TCBR"],
+    "Programme": "connaître et maîtriser les différentes technologies de virtualisation au niveau système : micro-processeur, mémoire vive, stockage et réseau \n comprendre le rôle et le fonctionnement des différents composants d'une architecture Cloud ainsi que leurs interfaces \n savoir mettre en œuvre différents types de services dans une architecture de cloud public ou privé et en maitriser l'usage \n comprendre les enjeux liés à la sécurité et maîtriser les briques technologiques associées \n comprendre les enjeux liés à l'empreinte écologique des architectures Cloud",
+    "Objectif" : "	Comprendre et maîtriser le fonctionnement des architectures Cloud en vue de leur mise en œuvre et leur utilisation.",
+    "Technologies" : ["Virtualisation", "Cloud", "Docker", "Azure", "AWS","Kubernetes"],
+    "Modalite" : ["final", "TP"],
+    "Métiers" : ["Architecte Cloud", "Ingénieur DevOps", "Administrateur système Cloud", "Spécialiste en virtualisation", "Ingénieur en sécurité Cloud", "Architecte réseau Cloud", "Administrateur de bases de données Cloud", "Ingénieur Cloud computing", "Consultant en architecture Cloud", "Responsable de l'optimisation énergétique des architectures Cloud"],
+    "OuvertTC" : false
+},
+
 
 
 
