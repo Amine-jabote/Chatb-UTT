@@ -41,7 +41,8 @@ RT :
     "objectif": "Devant l'ampleur actuelle des technologies de communications, il est important de comprendre le fonctionnement des systèmes de communication et la manipulation de l'information mise en jeu.",
     "technologies": ["aucune Technologie"],
     "Modalite": ["median", "final"],
-    "métiers": ["Ingénieur en télécommunications", "Ingénieur en traitement du signal", "Développeur en compression de données","Ingénieur en sécurité des communications","Chercheur en intelligence artificielle et apprentissage automatique","Consultant en analyse de données"]
+    "métiers": ["Ingénieur en télécommunications", "Ingénieur en traitement du signal", "Développeur en compression de données","Ingénieur en sécurité des communications","Chercheur en intelligence artificielle et apprentissage automatique","Consultant en analyse de données"],
+    "OuvertTC": false
 },
 "NF16": {
     "Titre": "Concevoir et manipuler des bases de données",
@@ -56,7 +57,8 @@ RT :
     "objectif": "L'objectif de l'UE est de comprendre et mettre en oeuvre les concepts fondamentaux liés à la mise en place et l'utilisation des bases de données relationnelles.",
     "technologies": ["SQL","MySQL"],
     "Modalite": ["median", "final", "Controles continues"],
-    "métiers": ["Data analyste","Analyste de données", "Data engineer","ingénieur données", "Développeur de bases de données","Data architect","Architecte de données"]
+    "métiers": ["Data analyste","Analyste de données", "Data engineer","ingénieur données", "Développeur de bases de données","Data architect","Architecte de données"],
+    "OuvertTC": false;
 },
 "RE02": {
     "Titre": "Transmission de l'information",
@@ -71,7 +73,8 @@ RT :
     "objectif": "Il s'agit d'aborder les différentes techniques et paramètres de transmission en fonction des supports utilisés.",
     "technologies": ["Matlab"],
     "Modalite": ["median", "final"],
-    "métiers": ["Ingénieur en télécommunications","Ingénieur en conception de systèmes de communication", "Ingénieur en photonique","Analyste de performance des réseaux", "Ingénieur en transmission de données"]
+    "métiers": ["Ingénieur en télécommunications","Ingénieur en conception de systèmes de communication", "Ingénieur en photonique","Analyste de performance des réseaux", "Ingénieur en transmission de données"],
+    "OuvertTC": false
 },
 "RE04": {
     "Titre": "Réseaux de l'internet",
@@ -86,7 +89,8 @@ RT :
     "objectif": "Les réseaux de l'internet utilisent de multiples technologies de transfert ainsi que de contrôle. Il est important de connaître les techniques fondamentales des réseaux étendus pour ensuite savoir les intégrer.",
     "technologies": ["Wireshark"],
     "Modalite": ["median", "Controles continues", "final"],
-    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"]
+    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"],
+    "OuvertTC": false
 },
 "SY04": {
     "Titre": "Outils pour la modélisation de réseaux",
@@ -101,7 +105,8 @@ RT :
     "objectif": "Lors de la conception ou de l'exploitation d'un réseau, il est important de connaître ses propriétés et ses performances. L'objet de ce module est d'étudier différents outils pour la modélisation et l'évaluation de performances de réseaux.",
     "technologies": ["aucune technologie"],
     "Modalite": ["median", "Controles continues", "final"],
-    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"]
+    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"],
+    "OuvertTC": false
 },
 "SY06": {
     "Titre": "Analyse et traitement du signal",
@@ -116,7 +121,8 @@ RT :
     "objectif": "Il s'agit d'introduire les méthodes essentielles d'analyse et de traitement des signaux déterministes. Les applications illustrant ce module sont issues des télécommunications, de l'analyse des signaux RADAR, vibratoires, du contrôle non destructif, etc.",
     "technologies": ["Matlab"],
     "Modalite": ["median","final"],
-    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"]
+    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"],
+    "OuvertTC": false
 },
 "SY16": {
     "Titre": "Traitement numérique du signal et des images",
@@ -131,6 +137,55 @@ RT :
     "objectif": "former les futurs ingénieurs aux outils théoriques et pratiques nécessaires au traitement et à l'analyse numérique du signal et des images",
     "technologies": ["Matlab"],
     "Modalite": ["Controles Continues","final"],
-    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"]
+    "métiers": ["Ingénieur réseau", "Administrateur réseau","Architecte réseau", "Ingénieur en télécommunications","Ingénieur en réseaux et systèmes","Spécialiste en sécurité réseau"],
+    "OuvertTC": false
+},
+"IF03": {
+    "Titre": "S'initier à la Sécurité des Systèmes d'Information",
+    "Type": "TM",
+    "Credits": 6,
+    "repartition": {"C": "28h", "TD": "28h","TP": "16h","THE": "78h","PRJ": "20h"},
+    "Disponibilite": ["Printemps"],
+    "Langue": ["francais"],
+    "branche": ["RT","ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-connaître les notions de disponibilité, intégrité, confidentialité et preuve \n -connaître les architectures sécurisées (vpn, firewall, web, mobilité et wireless...) \n -savoir sécuriser un poste de travail \n -connaître les risques et les parades sur internet \n -connaître la signature électronique et les base de la cryptographie et les problèmes de fuites d'informations \n -savoir définir une politique de lutte contre les virus et malwares \n -connaître les différents types d'audits sécurité \n -connaître les bases juridiques (aspects réglementaires et normatifs) ",
+    "objectif": "Appréhender les bases concernant la Sécurité des Systèmes d'Information en entreprise autant dans sa dimension technique, qu'organisationnelle et humaine.",
+    "technologies": ["VM","disque dur","root-me"],
+    "Modalite": ["note de TP","final","Projet"],
+    "métiers": ["Ingénieur réseau", "Administrateur réseau","Ingénieur en réseaux et systèmes","Ingénieur Cybersecurité"],
+    "OuvertTC": false
+},
+"LO02": {
+    "Titre": "Principe et pratique de la programmation orientée objets",
+    "Type": "TM",
+    "Credits": 6,
+    "repartition": {"C": "28h", "TD": "28h","TP": "18h","THE": "76h","PRJ": "70h"},
+    "Disponibilite": ["Automne"],
+    "Langue": ["francais"],
+    "branche": ["RT","ISI","SN","A2I"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre les concepts de l'approche orientée objet et les traduire en UML et en Java \n -connaître et réutiliser les bibliothèques et fonctions essentielles de Java SE (Standard Edition) \n -concevoir une architecture orientée objet sur la base d'exigences fonctionnelles \n -connaître et savoir intégrer des patrons de conception élémentaires dans la production de code \n -documenter une API avec Javadoc",
+    "objectif": "L'objectif de cette UV est de comprendre et utiliser l'approche orientée objet pour la mise en œuvre de projets logiciels. Elle propose de mener de front la conception détaillée (en UML) et le développement (en Java) d'un même projet.",
+    "technologies": ["Java","UML","API"],
+    "Modalite": ["median","final","Projet"],
+    "métiers": ["Ingénieur réseau", "Ingénieur developpement logiciels","Ingénieur en réseaux et systèmes","Ingénieur Devops","Ingénieur developpeur Full-stack"],
+    "OuvertTC": true
+},
+"LO11": {
+    "Titre": "Introduction à l'internet des objets",
+    "Type": "TM",
+    "Credits": 6,
+    "repartition": {"C": "28h","TP": "45h","THE": "77h"},
+    "Disponibilite": ["Printemps"],
+    "Langue": ["francais"],
+    "branche": ["RT","SN"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre l'architecture de ce type de réseau dans son ensemble depuis le capteur jusqu'à la plate-forme de traitement \n -savoir programmer des objets connectés afin de transmettre les données des capteurs \n -savoir mettre en œuvre une solution logicielle de traitement de données sur la plate-forme de traitement \n -savoir installer les services réseaux nécessaires au bon fonctionnement de la chaîne de transmission",
+    "objectif": "L'objectif est de comprendre les principales technologies et mécanismes utilisés dans l'internet des objets, mais également de savoir mettre en œuvre une solution qui utilise ces technologies.",
+    "technologies": ["IoT","VHDL","C","ASM"],
+    "Modalite": ["TP","final"],
+    "métiers": ["Ingénieur IoT", "Architecte IoT","Ingénieur en réseaux et systèmes","Ingénieur en systèmes embarquéss","Ingénieur en traitement de données IoT"],
+    "OuvertTC": false
 },
 
