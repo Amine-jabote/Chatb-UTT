@@ -1,11 +1,19 @@
 ISI :
 
-"NF21": {
-    "branche": "ISI",
-    "contenu": "Description détaillée du contenu...",
-    "objectif_pédagogique": "Objectif de la matière...",
-    "technologies": ["Python", "C", "C++", "Docker"],
-    "métiers": ["data scientist", "data engineer", "data analyst"]
+"GL02": {
+    "Titre": "Fondements de l'ingénieurie logicielle",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "14h", "TP" : "17h", "THE" : "91h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI","SN"],
+    "Filiere": ["TCBR"],
+    "Programme": "-modéliser les fonctions d'un logiciel \n spécifier des formats de données et des traitements \n contrôler la conformité à une spécification \n conduire une inspection des sources d'un projet logiciel \n coordonner des développements en équipe \n réaliser un projet complet en petite équipe afin de participer à l'ensemble des étapes d'un projet d'ingénierie logicielle \n se former en autonomie à la maîtrise d'un langage de programmation (Python, Javascript, Ruby ou Lua)",
+    "Objectif" : "Comprendre et mettre en pratique les liens entre spécification, implémentation et tests au cœur de la démarche d'ingénierie logicielle pour le développement de projets logiciels efficients, maintenables, utilisables et sûrs",
+    "Technologies" : ["Python", "Javascript", "Ruby", "Lua"],
+    "Modalite" : ["final", "projet"],
+    "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles"]
 },
 
 -Ajouter des UE de ISI ici 
