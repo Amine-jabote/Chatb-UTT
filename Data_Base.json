@@ -16,8 +16,58 @@ ISI :
     "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles"],
     "OuvertTC" : false
 },
+"IF02": {
+    "Titre": "Modélisation pour la conception des SI",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre l'alignement stratégique du Système dInformation \n -analyser les tâches d'un métier \n -établir les exigences fonctionnelles en partant des exigences prédéfinies \n -rassembler, formaliser et valider des exigences techniques et non-techniques pour les systèmes sociotechniques complexes \n -maîtriser des techniques, normes et méthodes de spécification orientée objet (UML : diagramme de cas d'utilisation, de classes, d'états-transitions, de séquence, d'activité)\n-produire de la documentation",
+    "Objectif" : "L'objectif de cette UV est l'apprentissage du rôle des technologies de l'information et de la communication pour résoudre des problèmes dans les organisations. Les étudiants s'approprient le concept de Système d'Information (SI), et de la conception orientée objet de ces SI.",
+    "Technologies" : ["UML"],
+    "Modalite" : ["final", "projet"],
+    "Métiers" : ["Analyste fonctionnel", "Architecte de systèmes d'information", "Consultant en système d'information", "Ingénieur en système d'information", "Analyste en gestion des exigences", "Architecte logiciel", "Concepteur-développeur en informatique", "Chef de projet informatique", "Analyste en ingénierie des systèmes", "Expert en modélisation de systèmes d'information"],
+    "OuvertTC" : true
+},
 
--Ajouter des UE de ISI ici 
+"IF02A": {
+    "Titre": "Modélisation pour la conception des SI",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre l'alignement stratégique du Système dInformation \n -analyser les tâches d'un métier \n -établir les exigences fonctionnelles en partant des exigences prédéfinies \n -rassembler, formaliser et valider des exigences techniques et non-techniques pour les systèmes sociotechniques complexes \n -maîtriser des techniques, normes et méthodes de spécification orientée objet (UML : diagramme de cas d'utilisation, de classes, d'états-transitions, de séquence, d'activité)\n-produire de la documentation",
+    "Objectif" : "L'objectif de cette UV est l'apprentissage du rôle des technologies de l'information et de la communication pour résoudre des problèmes dans les organisations. Les étudiants s'approprient le concept de Système d'Information (SI), et de la conception orientée objet de ces SI.",
+    "Technologies" : ["UML"],
+    "Modalite" : ["final", "projet"],
+    "Métiers" : ["Analyste fonctionnel", "Architecte de systèmes d'information", "Consultant en système d'information", "Ingénieur en système d'information", "Analyste en gestion des exigences", "Architecte logiciel", "Concepteur-développeur en informatique", "Chef de projet informatique", "Analyste en ingénierie des systèmes", "Expert en modélisation de systèmes d'information"],
+    "OuvertTC" : true
+},
+
+"IF15": {
+    "Titre": "Ingénierie des connaissances",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TP" : "30h", "THE" : "92h" ,"PRJ" : "70h"},
+    "Disponibilité": ["PAutomne"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["TCBR"],
+    "Programme": "-recueillir les connaissances (entretiens, documents) \n-représenter les connaissances (ontologies, RDF, systèmes multi-agents, graphes conceptuels) \n-gérer les connaissances (MASK, REX, Common KADS, MACAO, KOD)",
+    "Objectif" : "Face au besoin de gestion des connaissances en entreprise, ce cours forme aux techniques d'Ingénierie des Connaissances pour le recueil et la modélisation des connaissances des experts. Sont passées en revue différentes approches de recueil, de représentation et de gestion des connaissances.",
+    "Technologies" : ["MASK", "REX", "Common KADS", "MACAO", "KOD"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Ingénieur en gestion des connaissances", "Analyste en ingénierie des connaissances", "Architecte de systèmes de gestion des connaissances", "Consultant en ingénierie des connaissances", "Développeur d'ontologies", "Expert en représentation des connaissances", "Analyste en gestion des données", "Spécialiste en systèmes multi-agents"],
+    "OuvertTC" : false
+},
+
+
 
 
 
