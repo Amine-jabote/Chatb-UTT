@@ -13,7 +13,8 @@ ISI :
     "Objectif" : "Comprendre et mettre en pratique les liens entre spécification, implémentation et tests au cœur de la démarche d'ingénierie logicielle pour le développement de projets logiciels efficients, maintenables, utilisables et sûrs",
     "Technologies" : ["Python", "Javascript", "Ruby", "Lua"],
     "Modalite" : ["final", "projet"],
-    "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles"]
+    "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles"],
+    "OuvertTC" : False
 },
 
 -Ajouter des UE de ISI ici 
