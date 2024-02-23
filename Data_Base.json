@@ -495,6 +495,125 @@ ISI :
     "OuvertTC" : false
 },
 
+"IF05": {
+    "Titre": "Gérer un projet logiciel de manière agile",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"TD" : "60h", "THE" : "90h" ,"TP" : "70h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI",],
+    "Filiere": ["IPL"],
+    "Programme": "-aider les utilisateurs ciblés à énoncer des récits à propos de ce qu'ils pourraient faire avec le logiciel \n-identifier et décrire des fonctionnalités du logiciel (tickets) \n-planifier et assurer le suivi d'un projet logiciel de manière itérative (kanban) \n-réaliser des maquettes et rédiger un manuel d'utilisation autour de scénarios d'usage \n-élaborer, automatiser et faire passer des tests de recette \n-concevoir et développer une fonctionnalité de manière « frugale »",
+    "Objectif" : "Planifier la création d'un logiciel avec un Gantt aboutit souvent à un non-respect des délais, des coûts, des équipes et des besoins réels des parties prenantes. Les méthodes agiles proposent un autre cadre permettant de chercher l'intérêt de tous.",
+    "Technologies" : ["Kanban", "JavaScript", "React"],
+    "Modalite" : ["projet"],
+    "Métiers" : ["Consultant en gestion de projet", "Analyste en gestion de projet", "Ingénieur en gestion de projet", "Expert en gestion de projet", "Responsable de projet"],
+    "OuvertTC" : false
+},
+
+"IF22": {
+    "Titre": "Gestion des Systèmes d'Information",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C": "24h" , "TD" : "28h","TP" : "16h","THE" : "82h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI",],
+    "Filiere": ["ATN"],
+    "Programme": "-décrire, analyser et améliorer les différentes couches d'un Système d'Information (métier, fonctionnel, applicatif et technique) \n-gérer un projet d'urbanisation du Système d'Information en appliquant principes de gouvernance des SI \n-appliquer les principaux référentiels du Système de Management d'une DSI (CMMI, ITIL, COBIT, ISO)",
+    "Objectif" : "Ce cours traite de la gestion des Systèmes d'Information selon l'approche globale de l'Architecture d'Enterprise (AE) qui couvre l'urbanisation du Système d'Information, la gestion des référentiels, la gestion du portefeuille de projets, et les méthodologies de transformation pour apporter un avantage concurrentiel à l'Entreprise.",
+    "Technologies" : ["CMMI", "ITIL", "COBIT", "ISO"],
+    "Modalite" : ["présentation"],
+    "Métiers" : ["Consultant en gestion des SI", "Analyste en gestion des SI", "Ingénieur en gestion des SI", "Expert en gestion des SI", "Responsable de projet SI"],
+    "OuvertTC" : false
+},
+
+"IF29": {
+    "Titre": "Traitement de données (Data Analytics)",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C": "28h" , "TD" : "28h","TP" : "12h","THE" : "82h", "PRJ" : "50h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI",],
+    "Filiere": ["VDC"],
+    "Programme": "-modéliser un problème complexe pour le traduire en chaîne de valorisation (Collecte, Stockage, Analytics, Visualisation) \n-collecter et préparer la donnée (nettoyage, exploration, sélection de dimensions) pour les algorithmes de Machine Learning \n-reconnaître et formuler un problème de Machine Learning \n-identifier les algorithmes pertinents pour le traitement et la visualisation \n-dimensionner les ressources pour une chaîne de traitement pour résoudre un problème complexe \n-assurer le passage à l'échelle des traitements pour faire face aux défis de grandes volumétries et de variabilité des projets Big Data Analytics",
+    "Objectif" : " Le traitement de données est central pour les entreprises,en particulier pour comprendre le marché ou aider à la prise de décision. Il s'agit de former à la collecte, le traitement, et la compréhension des données.",
+    "Technologies" : ["Machine Learning", "Data Analytics", "MongoDB"],
+    "Modalite" : ["controles continus", "projet"],
+    "Métiers" : ["Consultant en Data Analytics", "Analyste en Data Analytics", "Ingénieur en Data Analytics", "Expert en Data Analytics", "Responsable de projet Data Analytics"],
+    "OuvertTC" : false
+},
+
+"IF36": {
+    "Titre": "Visualiser des données",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C": "28h" , "TD" : "28h","THE" : "94h", "PRJ" : "60h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI","SN"],
+    "Filiere": ["ATN","VDC","TCBR"],
+    "Programme": "-connaître l'histoire de la visualisation et des représentations graphiques \n-créer des visualisations adaptées aux données et cohérentes avec la sémiologie graphique \n-comprendre et mettre à profit les mécanismes cognitifs sollicités par les représentations graphiques \n-prototyper des visualisations grâce à R et ses bibliothèques graphiques \n-réaliser des dashboards webs interactifs pour partager ses visualisations \n-mener et restituer une analyse exploratoire approfondie d'un jeu de données",
+    "Objectif" : " Quand les algorithmes peinent à mettre en évidence des tendances et des signaux faibles dans des données massives ou complexes, une visualisation est parfois plus pertinente et choisir la plus adaptée est une étape importante de l'analyse de données.",
+    "Technologies" : ["R","dashboards webs interactifs"],
+    "Modalite" : ["controles continus", "projet", "median"],
+    "Métiers" : ["Consultant en visualisation", "Analyste en visualisation", "Ingénieur en visualisation", "Expert en visualisation", "Responsable de projet visualisation"],
+    "OuvertTC" : false
+},
+
+"IF31": {
+    "Titre": "Analyser et concevoir les plateformes de l'économie collaborative",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C": "28h" , "TD" : "28h","THE" : "94h", "PRJ" : "50h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["IPL"],
+    "Programme": "-maîtriser le concept de plateforme positive \n-analyser les mécanismes et les modèles de rôles d'une plate-forme pour l'économie collaborative dans l'environnement technologique contemporain \n-définir les exigences techniques, organisationnelles et sociétales pour de tels systèmes à partir de canevas de conception de plateforme (pour l'économie collaborative ou le commerce électronique par exemple) \n-identifier les impacts potentiels de l'utilisation d'une plate-forme \n-accompagner une organisation dans son choix technologique",
+    "Objectif" : "L'Internet est durablement au cœur des SI, du commerce électronique au développement de l'économie collaborative. Il s'agit dans ce cours de comprendre les infrastructures techniques et de relever le défi de la conception de plateformes plus inclusives et positives",
+    "Technologies" : ["Plateformes de l'économie collaborative", "Design Toolkits"],
+    "Modalite" : ["controles continus", "projet"],
+    "Métiers" : ["Consultant en plateformes", "Analyste en plateformes", "Ingénieur en plateformes", "Expert en plateformes", "Responsable de projet plateformes"],
+    "OuvertTC" : false
+},
+
+"IF34": {
+    "Titre": "Maitriser les technologies du SI",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C": "28h" , "TD" : "28h","THE" : "94h", "PRJ" : "50h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["ATN","VDC"],
+    "Programme": "-analyser et évaluer l'écosystème des SI de l'entreprise \n-identifier les technologies pertinentes pour répondre à un besoin (connaissance du marché, des acteurs, etc.) \n-modéliser le parc de technologies de l'entreprise \n-gérer le portfolio des technologies de l'entreprise \n-mesurer l'impact, l'adoption et les usages pour définir des politiques d'innovation \n-piloter la transformation (numérique) des métiers de l'entreprise",
+    "Objectif" : "Ce cours traite de la compréhension des technologies du SI (IA, Cloud computing, IoT, blockchain,...)pour contribuer à leur sélection et leur adoption afin de mettre en place une politique d'innovation pertinente et soutenable dans les organisations.",
+    "Technologies" : ["IA", "Cloud computing", "IoT", "blockchain"],
+    "Modalite" : ["controles continus", "projet"],
+    "Métiers" : ["Consultant en technologies du SI", "Analyste en technologies du SI", "Ingénieur en technologies du SI", "Expert en technologies du SI", "Responsable de projet technologies du SI"],
+    "OuvertTC" : false
+},
+
+"LO10": {
+    "Titre": "Architectures orientées services",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C": "28h" , "TD" : "28h","THE" : "94h", "PRJ" : "30h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["ISI"],
+    "Filiere": ["IPL"],
+    "Programme": "-choisir des services de différents niveaux (SaaS, PaaS, IaaS) adaptés au besoin \n-concevoir et mettre en œuvre des applications orientées services suivant les démarches et formats standards \n-choisir une architecture en fonction des contraintes de l'organisation (sécurité, fiabilité, performance, évolution) \n-appliquer des patrons de conception architecturaux",
+    "Objectif" : "Découverte des enjeux fonctionnels des architectures orientées services (SOA) et des modèles de conception associés. Mise en œuvre de différentes approches (REST, SOAP) et application sur un projet.",
+    "Technologies" : ["service web", "design patterns"],
+    "Modalite" : ["controles continus", "projet"],
+    "Métiers" : ["Consultant en architectures orientées services", "Analyste en architectures orientées services", "Ingénieur en architectures orientées services", "Expert en architectures orientées services", "Responsable de projet architectures orientées services"],
+    "OuvertTC" : false
+},
+
 
 
 
