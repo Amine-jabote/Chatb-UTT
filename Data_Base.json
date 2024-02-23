@@ -654,7 +654,7 @@ RT :
     "technologies": ["SQL","MySQL"],
     "Modalite": ["median", "final", "Controles continus"],
     "métiers": ["Data analyste","Analyste de données", "Data engineer","ingénieur données", "Développeur de bases de données","Data architect","Architecte de données"],
-    "OuvertTC": false;
+    "OuvertTC": false
 },
 "RE02": {
     "Titre": "Transmission de l'information",
