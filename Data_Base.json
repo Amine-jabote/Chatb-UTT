@@ -2255,7 +2255,7 @@ GI:
     "Titre": "Industrie 4.0 : transition industrielle et optimisation de la gestion en temps réel"
     "Type": "TM",
     "Credits": 6,
-    "Repartition": {"C" : "28h","TD" : "28h","TP": "10h","THE" : "84h",},
+    "Repartition": {"C" : "28h","TD" : "28h","TP": "10h","THE" : "84h"},
     "Disponibilité": ["Automne"],
     "Langue" : ["Français"],
     "Branche" : ["GI"],
