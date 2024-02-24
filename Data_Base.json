@@ -842,6 +842,41 @@ MTE :
     "OuvertTC" : true
 },
 
+"MA21": {
+    "Titre": "Microscopic characterization and analysis of materials",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "12h", "THE" : "82h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "to figure and understand the most used macroscopic characterization techniques; optical spectroscopy (reflection, transmission, IR, Raman, ellipsometry), non-destructive testing techniques (penetrant testing, magnetic particle inspection, ultrasound), nuclear magnetic resonance and chromatography \n- to know how to choose the technique according to the material to be analyzed and the physico-chemical parameters sought \n- to be able to interpret and use the results of the analysis, among other things, to guide the choice of a material in relation to a specification or a given application",
+    "Objectif" : "The wide variety of materials used today in industry requires an exhaustive approach to characterization and analysis techniques. While providing a thorough grouding in the physical techniques used for macroscopic analysis of materials, we swill limit ourselves here to the macroscopic porperties.",
+    "Technologies" : ["Macroscopic characterization"],
+    "Modalite" : ["median", "final"],
+    "Métiers" : ["Ingénieur en caractérisation microscopique", "Chercheur en caractérisation microscopique", "Expert en caractérisation microscopique", "Responsable de projet caractérisation microscopique"],
+    "OuvertTC" : false
+},
+
+"PR15": {
+    "Titre": "Mise en forme des matériaux",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "56h", "THE" : "94h", "PRJ" : "40h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "identifier, connaître et comparer les procédés d'élaboration de mise en forme de différents matériaux (métalliques, polymères, céramiques, agro-matériaux, bois, composites...) \n- identifier, connaître et comparer les procédés de fabrication avancés (usinage grande vitesse, fabrication additive...) \n- identifier, connaître et comparer les procédés modifiant la surface afin d'optimiser certaines propriétés (traitements thermochimiques, traitements mécaniques de surface...)",
+    "Objectif" : "	Appréhender différents procédés industriels permettant le façonnage de différents matériaux.",
+    "Technologies" : ["Procédés d'élaboration", "Procédés de fabrication avancés", "Procédés modifiant la surface"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Ingénieur en mise en forme des matériaux", "Chercheur en mise en forme des matériaux", "Expert en mise en forme des matériaux", "Responsable de projet mise en forme des matériaux"],
+    "OuvertTC" : false
+},
+
+
 
 
 
