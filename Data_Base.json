@@ -2391,7 +2391,7 @@ GI:
     "Programme": "-étudier la gestion des risques technologiques et naturels, grâce à des méthodes générales d'analyse et de management des risques et des crises \n -prévenir les risques \n -étudier les risques incendie et environnementaux (activités humaines et milieux naturels) \n -étudier la sûreté opérationnelle dans plusieurs domaines (transport, nucléaire, chimie) \n -connaître les principes de la gestion de crises",
     "Objectif" : "La gestion des risques a pour objectif d'identifier les conséquences néfastes, d'évaluer leur gravité et leur vraisemblance, de décider des mesures à prendre. Les aspects liés aux facteurs technologiques et humains doivent être pris en compte.",
     "Technologies" : ["Non renseigné"], 
-    "Modalite" : ["Controles continus","final",],
+    "Modalite" : ["Controles continus","final"],
     "Métiers" : ["Analyste des risques industriels", "Ingénieur en sécurité des installations", "Spécialiste en gestion de la sécurité environnementale", "Consultant en gestion des risques et crises"],
     "OuvertTC" : false
 },
