@@ -613,6 +613,234 @@ ISI :
     "OuvertTC" : false
 },
 
+MTE : 
+
+"MA02": {
+    "Titre": "Structures et propriétés physiques de la matière",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "20h" ,"THE" : "74h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre le formalisme de la physique quantique (ket/bra, opérateurs, système à une particule, à plusieurs particules) \n-utiliser les outils de la physique statistique pour modéliser la matière (agitation thermique, distribution statistique, ordre et entropie) \n-établir des liens entre les propriétés microscopiques et macroscopiques de la matière \n-modéliser les propriétés thermiques et électriques de la matière",
+    "Objectif" : "Les propriétés macroscopiques de la matière sont, dans une large mesure, issues des comportements microscopiques des atomes et des molécules qui la constituent. Nous étudierons comment il est possible de comprendre et prévoir ces propriétés à partir des lois physiques de base.",
+    "Technologies" : ["Physique quantique", "Physique statistique"],
+    "Modalite" : ["TP", "final", "median"],
+    "Métiers" : ["Physicien", "Ingénieur en physique", "Chercheur en physique", "Expert en physique"],
+    "OuvertTC" : false
+
+},
+
+"MA03": {
+    "Titre": "Interaction Rayonnement-Matière",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "20h" ,"THE" : "74h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre les propriétés fondamentales des photons et des ondes électromagnétiques sur un spectre énergétique étendu allant des très hautes énergies (rayonnement gamma) aux très basses énergies (ondes radioélectriques) \n-comprendre et décrire les processus fondamentaux d'interaction entre le rayonnement et la matière : propagation, réflexion, réfraction, diffraction, absorption, émission \n-comprendre, mettre en œuvre et utiliser des moyens de caractérisation structurelle des matériaux : interférométrie, réfractométrie, spectroscopies, diffraction des rayons X",
+    "Objectif" : "Les propriétés d'interaction entre les rayonnements et la matière sont utilisées pour la caractérisation structurale des matériaux, leur mise en forme, et pour le développement des nouvelles technologies (télécommunications, énergie, affichage, capteurs).",
+    "Technologies" : ["Rayonnement", "Ondes électromagnétiques"],
+    "Modalite" : ["TP", "final", "median"],
+    "Métiers" : ["Expert en spectroscopie", "Ingénieur en caractérisation des matériaux", "Chercheur en caractérisation des matériaux", "Expert en caractérisation des matériaux"],
+    "OuvertTC" : false
+    
+},
+
+"MA11": {
+    "Titre": "Matériaux métalliques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "16h" ,"THE" : "78h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "-connaître la structure cristallographique des métaux, leurs défauts et les bases de la diffusion \n-savoir interpréter les diagrammes binaires et les transformations isothermes \n-être capable de prévoir la microstructure d'un alliage donné à partir d'un diagramme d'équilibre ou de diagrammes TTT/TRC lors d'un refroidissement rapide \n-connaître les traitements thermiques usuels \n-connaître les principales propriétés des alliages les plus courants, leur élaboration, leurs applications et leurs normalisations \n-comprendre les mécanismes de durcissement par la théorie des dislocations \n-être sensibilisé à la corrosion",
+    "Objectif" : "On trouve des matériaux métalliques partout dans nos sociétés industrialisées. Il s'agit ici de donner les principales connaissances sur ces alliages, sur leur comportement mécanique et leurs propriétés, que l'on peut maîtriser de différentes façons.",
+    "Technologies" : ["Métaux", "Alliages"],
+    "Modalite" : ["TP", "final", "median"],
+    "Métiers" : ["Ingénieur en métallurgie", "Chercheur en métallurgie", "Expert en métallurgie", "Responsable de projet métallurgie"],
+    "OuvertTC" : false
+    
+},
+
+"NM01": {
+    "Titre": "Nanomatériaux et Matière Molle",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "78h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "-comprendre les interactions entre les molécules, les particules et les surfaces \n-découvrir les principes du marquage fluorescent et la détection optique associée à travers différente applications \n-acquérir des connaissances sur les propriétés des membranes lipidiques et leurs applications \n-découvrir la microfluidique et la manipulation cellulaire \n-assimiler les propriétés optiques et les notions élémentaires des systèmes colloïdaux dans le but de manipuler des micro et nanoparticules \n-découvrir la plasmonique et les biotechnologies associées",
+    "Objectif" : "Introduction à la physique de la matière molle et aux bio- et nano-technologies associées. Présentation de différentes applications dans le domaine de la santé : biocapteurs, encapsulation des saveurs, vectorisation des médicaments, adhésion cellulaire.",
+    "Technologies" : ["Biotechnologies", "Nanotechnologies"],
+    "Modalite" : ["final", "median"],
+    "Métiers" : ["Ingénieur en nanomatériaux", "Chercheur en nanomatériaux", "Expert en nanomatériaux", "Responsable de projet nanomatériaux"],
+    "OuvertTC" : false
+    
+},
+
+"DS01": {
+    "Titre": "Design",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h", "PRJ" : "40h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE","MM"],
+    "Filiere": ["TCBR"],
+    "Programme": "-concevoir et obéir à un cahier des charges \n-travailler et être créatif en groupe (management du design) \n-maîtriser les outils : diagramme pieuvre et ternaire ; bête à corne ; planche de tendance ; CAO d'un objet et mise en situation dans un environnement virtuel ; élaborer et analyser un sondage ; analyse PESTEL \n-adapter un objet à une cible commerciale \n-produire une ébauche de plan marketing \n-connaître les éléments de propriété intellectuelle en design",
+    "Objectif" : "-histoire du design et principaux courants \n-management de la créativité. Contraintes liées à l'esthétique (forme, couleurs), aux matériaux utilisés (recyclabilité, impact des choix en conception de produits) et aux coûts \n-éléments de sociologie et de psychologie du design \n-éléments sensoriques \n-éléments de packaging \n-design durable",
+    "Technologies" : ["CAO"],
+    "Modalite" : ["final", "median", "projet"],
+    "Métiers" : ["Ingénieur en design", "Chercheur en design", "Expert en design", "Responsable de projet design"],
+    "OuvertTC" : false
+    
+},
+
+"EV14": {
+    "Titre": "Modellling of Human-Systems-Nature interactions",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "24h", "TP" : "20h", "THE" : "78h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "-understanding of ecosystems and associated issues: climate, water, carbon, nitrogen, phosphorus, species classifications, biodiversity, trophic chains \n-modelling of Human-Systems-Nature interactions with an holistic perspective: models of human needs, planetary boundaries, Doughnut framework \n-implementing the model Humans-Systems-Nature in a specific system",
+    "Objectif" : "The objective of this lecture is to model the interactions between Humans, Systems and Nature at several spatio-temporal scales. These representations allow engineers to understand the planetary limits and the functioning of socio-technical organizations within these limits. This is a preliminary to design and evolve socio-technical systems in a responsible way, avoiding rebound effects",
+    "Technologies" : ["Modeling"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Ecological Designer", "Sustainability Consultant", "Environmental Analyst", "Green Infrastructure Planner", "Ecosystem Management Specialist", "Climate Resilience Planner", "Sustainable Development Strategist", "Biodiversity Conservationist", "Natural Resource Manager", "Environmental Policy Advisor"],
+    "OuvertTC" : false  
+},
+
+"MA13": {
+    "Titre": "Mécanique des matériaux",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "16h", "THE" : "78h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "maîtriser les notions fondamentales en mécanique des matériaux : contraintes et déformations, en élasticité et en plasticité \n comprendre le dimensionnement des structures sous différents types de sollicitations (Traction, torsion, flexion et composée) \n comprendre le dimensionnement des structures à l'aide des critères classiques de limite d'élasticité \n comprendre une loi de comportement élastique (loi de Hooke) et plastique \n comprendre les mécanismes élémentaires de déformation en élasticité, en plasticité et en fluage \n connaître les notions de ductilité, de fragilité et d'endommagement",
+    "Objectif" : "Initier les étudiants aux notions de contraintes et de déformations afin de satisfaire les conditions de résistance mécanique.",
+    "Technologies" : ["Mécanique des matériaux"],
+    "Modalite" : ["médian", "final", "projet"],
+    "Métiers" : ["Ingénieur en mécanique des matériaux", "Chercheur en mécanique des matériaux", "Expert en mécanique des matériaux", "Responsable de projet mécanique des matériaux"],
+    "OuvertTC" : false  
+},
+
+"OB01": {
+    "Titre": "Outils scientifiques de base pour l'ingénieur",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "24h", "TD" : "28h", "TP" : "24h", "THE" : "74h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "connaître les méthodes d'analyse numérique de base (recherche de 0, interpolation polynomiale, régression, intégration, résolution d'équations différentielles, différences finies, transformée de Fourier) \n identifier les grandeurs jouant un rôle clé dans un phénomène physique \n s'interroger sur la vraisemblance d'un résultat et être capable de quantifier l'erreur commise lors des calculs numériques",
+    "Objectif" : "	En ingénierie, on est souvent confronté à des problèmes dont la résolution analytique s'avère très compliquée, voire impossible. La simulation numérique devient alors un outil puissant qui permet de mieux comprendre la nature des phénomènes étudiés.",
+    "Technologies" : ["Analyse numérique", "Python", "Matlab"], 
+    "Modalite" : ["médian", "final", "TP"],
+    "Métiers" : ["Ingénieur en analyse numérique", "Chercheur en analyse numérique", "Expert en analyse numérique", "Responsable de projet analyse numérique"],
+    "OuvertTC" : false  
+},
+
+"MA04": {
+    "Titre": "Chimie pour les matériaux",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "18h" ,"THE" : "76h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "établir des liens entre la structure de la molécule, la synthèse du matériau, sa structure macromoléculaire, sa réactivité de surface et ses propriétés thermomécaniques \n- maîtriser les outils scientifiques et techniques nécessaires à la synthèse et caractérisation des polymères, copolymères et photopolymères \n- acquérir des compétences théoriques et pratiques en cinétique des polymérisations activées thermiquement ou par la lumière \n- étudier la réactivité de surface et acquérir des compétences en fonctionnalisation et dégradation des polymères",
+    "Objectif" : "La maîtrise des processus d'élaboration, transformation et dégradation des polymères nécessite une compréhension des aspects chimiques fondamentaux. Ils permettent de décrire la réactivité des molécules, la structure et les propriétés du matériau.",
+    "Technologies" : ["Polymères", "Copolymères", "Photopolymères"],
+    "Modalite" : ["TP", "final", "median"],
+    "Métiers" : ["Ingénieur en chimie des matériaux", "Chercheur en chimie des matériaux", "Expert en chimie des matériaux", "Responsable de projet chimie des matériaux"],
+    "OuvertTC" : false
+
+},
+
+"MA05": {
+    "Titre": "Physique de la matière solide",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "modéliser les vibrations dans les solides (phonons) et faire le lien avec les propriétés thermiques des matériaux \n- modéliser les électrons dans les solides (bandes d'énergie) et faire le lien avec les propriétés électriques des matériaux (isolant, conducteur, semi-conducteur) \n- comprendre l'origine du magnétisme dans la matière et ses applications",
+    "Objectif" : "La matière condensée permet de mieux comprendre les propriétés physiques des matériaux. Cette UE propose d'approfondir l'usage des lois physiques décrivant les solides en présentant les principaux modèles décrivant la matière condensée.",
+    "Technologies" : ["Matériaux", "Physique"],
+    "Modalite" : ["Non renseignée"],
+    "Métiers" : ["Ingénieur en physique des matériaux", "Chercheur en physique des matériaux", "Expert en physique des matériaux", "Responsable de projet physique des matériaux"],
+    "OuvertTC" : false
+},
+
+"MA12": {
+    "Titre": "Physique des polymères et composites",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "12h", "THE" : "82h", "PRJ" : "4h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "reconnaitre, choisir et utiliser des matériaux polymères \n- comprendre la structure interne d'un polymère et les voies de modifications \n- caractériser les propriétés de ces matériaux \n- polymères: de la molécule au matériau fini. Cohésion, structure moléculaire, thermodynamique des mélanges, formulation et mise en forme, applications nouvelles \n- polymères issus du vivant et biomatériaux naturels : formulation, mise en forme et applications \n- composites: propriétés mécaniques et physiques, énergie de surface, matrice/renfort, procédés de fabrication, High-Tech",
+    "Objectif" : "donner des connaissances de base sur les matériaux polymères et composites \n- propriétés physiques et mécaniques, thermodynamique des mélanges, bio-polymères, mise en oeuvre",
+    "Technologies" : ["Polymères", "Composites"],
+    "Modalite" : ["TP", "final", "DM", "projet"],
+    "Métiers" : ["Ingénieur en physique des polymères", "Chercheur en physique des polymères", "Expert en physique des polymères", "Responsable de projet physique des polymères"],
+    "OuvertTC" : false
+},
+
+"MA14": {
+    "Titre": "Semi-conducteurs et matériaux pour les technologies avancées",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "24h", "THE" : "70h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "comprendre et décrire le fonctionnement et les propriétés des semi-conducteurs et des autres matériaux utilisés dans les technologies électroniques et avancées (magnétisme, supraconductivité, photovoltaïsme) \n- comprendre les phénomènes et les principes de fonctionnement des composants à semi-conducteurs et les problématiques liées aux matériaux les constituant \n- échanger, extraire et traiter des informations techniques relatives à la mise en oeuvre de ces matériaux et des procédés associés, avec des spécialistes ou à partir de documents techniques",
+    "Objectif" : "	L'électronique et les technologies avancées utilisent des propriétés originales des semi-conducteurs et de certains matériaux qui permettent des fonctions très sophistiquées, à l'utilisation croissante.",
+    "Technologies" : ["Semi-conducteurs", "Magnétisme", "Supraconductivité", "Photovoltaïsme"],
+    "Modalite" : ["TP", "final", "DM", "projet"],
+    "Métiers" : ["Ingénieur en semi-conducteurs", "Chercheur en semi-conducteurs", "Expert en semi-conducteurs", "Responsable de projet semi-conducteurs"],
+    "OuvertTC" : false
+},
+
+"MA20": {
+    "Titre": "Microscopic characterization and analysis of materials",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "6h", "THE" : "88h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCBR"],
+    "Programme": "to adapt the characterization techniques to the material requirements \n- to understand the traditional techniques of characterization such as optical microscopy and scanning electron microscopy as well as x-ray diffraction \n- to understand the new local probe techniques (physical effects and instrumentation) \n- to know how to choose the appropriate microscopic characterization technique according to the specifications of the material to be analyzed \n- to be able to implement or have implemented the appropriate technique for the microscopic or nanometric analysis requested",
+    "Objectif" : "Recent developments in materials science require an intimate understanding of the behavior of matter at the micron, submicron or even nanometrics scales.",
+    "Technologies" : ["Microscopic characterization"],
+    "Modalite" : ["median", "final"],
+    "Métiers" : ["Ingénieur en caractérisation microscopique", "Chercheur en caractérisation microscopique", "Expert en caractérisation microscopique", "Responsable de projet caractérisation microscopique"],
+    "OuvertTC" : true
+},
 
 
 
