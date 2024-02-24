@@ -876,6 +876,245 @@ MTE :
     "OuvertTC" : false
 },
 
+"OP02": {
+    "Titre": "Communications optiques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "56h", "TD" : "4h", "THE" : "90h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["EME"],
+    "Programme": "comprendre les principes de l'optique non-linéaire et ses applications pour la conversion de fréquence et le traitement du signal \n- modéliser les propriétés des lasers à semi-conducteur et connaître leurs applications \n- comprendre et décrire le fonctionnement d'un systèmes d'imagerie optique",
+    "Objectif" : "Cette UE propose une introduction au fonctionnement de plusieurs systèmes optiques et photoniques (sources lasers, détecteurs, convertisseurs de fréquence) et leurs applications pour les télécoms et l'imagerie.",
+    "Technologies" : ["Optique non-linéaire", "Lasers à semi-conducteur", "Imagerie optique"],
+    "Modalite" : ["oraux", "rapport"],
+    "Métiers" : ["Ingénieur en communications optiques", "Chercheur en communications optiques", "Expert en communications optiques", "Responsable de projet communications optiques"],
+    "OuvertTC" : false
+
+},
+
+"EV11": {
+    "Titre": "Management du cycle de vie des matériaux",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "24h", "TD" : "24h", "THE" : "102h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["EME"],
+    "Programme": "introduction à la pensée cycle de vie des matériaux utilisés dans les produits manufacturés selon des considérations environnementales \n- étude des matériaux critiques pour l'économie européenne et des facteurs influençant leur approvisionnement (épuisement, recyclabilité, substituabilité) \n- étude des phases de collecte, recyclage et valorisation des principaux matériaux après usage \n- étude des normes et règlements liés aux matériaux selon des considérations environnementales \n- présentation de la réalité du recyclage et valorisation des matériaux \n- opportunités et menaces dans le cycle de vie des nouveaux matériaux",
+    "Objectif" : "Le choix des matériaux influence le cycle de vie des produits et leurs impacts environnementaux, il est par conséquent nécessaire de maîtriser les phases de vie des matériaux depuis leur extraction jusqu'à leur fin de vie.",
+    "Technologies" : ["Cycle de vie des matériaux"],
+    "Modalite" : ["projet", "controles continus", "final"],
+    "Métiers" : ["Ingénieur en management du cycle de vie des matériaux", "Chercheur en management du cycle de vie des matériaux", "Expert en management du cycle de vie des matériaux", "Responsable de projet management du cycle de vie des matériaux"],
+    "OuvertTC" : false
+},
+
+"GE40": {
+    "Titre": "Commerce des matériaux",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h", "PRJ" : "5h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCMC"],
+    "Programme": "connaitre les bases du marché des matériaux et comprendre leur fonctionnement \n- acquérir une logique d'analyse de l'impact de l'interaction des acteurs sur le prix des matériaux \n- appliquer les notions de gestion et de bases du calcul de coût dans les organisations \n- élargir le coût d'un produit à l'ensemble de son cycle de vie et appréhender les externalités \n- comprendre le marketing et sa fonction en entreprise \n- savoir mener une étude de marché/Application aux marchés des matériaux \n- s'informer sur le métier d'ingénieur commercial",
+    "Objectif" : "Connaître et analyser les différents paramètres influant le marché des matériaux et leur prix de vente.",
+    "Technologies" : ["Commerce des matériaux"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Consultant en stratégie dans le secteur des matériaux", "Chercheur en commerce des matériaux", "Expert en commerce des matériaux", "Responsable de projet commerce des matériaux"],
+    "OuvertTC" : false
+},
+
+"ME10": {
+    "Titre": "Matériaux pour l'énergie",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TQM", "EME"],
+    "Programme": "énergies renouvelables : photovoltaïque, solaire thermique, éolien \n énergie nucléaire : production d'énergie nucléaire classique et future, traitement et stockage des déchets, principes et matériaux mis en jeu \n stockage et transport de l'énergie : système traditionnel et moderne pour le stockage de l'énergie, transport optique, transport électrique",
+    "Objectif" : "Etre capable de dimensionner des matériaux pour le stockage, la production et le transport de l'énergie",
+    "Technologies" : ["Energies renouvelables", "Energie nucléaire", "Stockage et transport de l'énergie"],
+    "Modalite" : ["projet", "final"],
+    "Métiers" : ["Ingénieur en matériaux pour l'énergie", "Chercheur en matériaux pour l'énergie", "Expert en matériaux pour l'énergie", "Responsable de projet matériaux pour l'énergie"],
+    "OuvertTC" : false
+},
+
+"MQ16": {
+    "Titre": "Dimensionnement des structures mécaniques par une approche mixte numérique/expérimentale",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "20h", "THE" : "74h", "PRJ" : "20h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE", "GM"],
+    "Filiere": ["TQM", "MDPI", "SNM", "CEISME"],
+    "Programme": "déterminer les déformations et les contraintes dans une structure par différentes techniques expérimentales \n poser correctement le problème d-équilibre de structures élastiques isotropes et anisotropes en vue de leur modélisation par EF \n maitriser l'utilisation de divers codes de calcul par EF pour simuler le comportement d-une structure déformée par des sollicitations mécaniques statiques et dynamiques \n analyser les champs de déformations et des contraintes obtenus à partir d'un modèle EF \n recaler les paramètres d'un modèle EF sur la base de comparaisons avec des résultats expérimentaux \n optimiser une structure en utilisant les codes EF",
+    "Objectif" : "déterminer et analyser expérimentalement et numériquement par Elements Finis (EF) les déformations et les contraintes dans les structures mécaniques \n confronter les résultats expérimentaux et EF \n optimiser les structures vis-à-vis de leurs résistances mécaniques",
+    "Technologies" : ["Elements Finis"],
+    "Modalite" : ["projet", "final"],
+    "Métiers" : ["Ingénieur en calcul de structures", "Ingénieur en mécanique des matériaux", "Ingénieur en simulation numérique", "Ingénieur en validation des modèles", "Technicien en essais mécaniques", "Ingénieur en conception mécanique", "Ingénieur en fiabilité des structures", "Ingénieur en matériaux et structures", "Ingénieur en recherche et développement", "Ingénieur en mécatronique"],
+    "OuvertTC" : false
+},
+
+"MQ21": {
+    "Titre": "Procédés de mise en forme des matériaux et simulations numériques",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "20h", "THE" : "74h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE", "GM"],
+    "Filiere": ["TQM","SNM"],
+    "Programme": "-connaître les aspects technologiques des procédés de mise en forme conventionnels (forgeage, laminage, emboutissage, etc.) \n-au travers de projets, savoir acquérir et transmettre des notions sur des procédés de mise en forme moins conventionnels \n-connaître les notions de base de la mécanique non-linéaire et les modèles de comportement associées \n-savoir caractériser et modéliser le comportement des matériaux lors de la mise en forme \n-savoir simuler numériquement divers procédés mécaniques à l'aide de logiciels métiers (Abaqus, PAM-Stamp et Forge)",
+    "Objectif" : "maîtriser et simuler numériquement divers procédés mécaniques de mise en forme et de fabrication",
+    "Technologies" : ["Abaqus", "Simulations numériques", "PAM-Stamp", "Forge"],
+    "Modalite" : ["projet", "final"],
+    "Métiers" : ["Ingénieur en simulation numérique", "Ingénieur en procédés de mise en forme", "Ingénieur en conception mécanique", "Ingénieur en recherche et développement", "Ingénieur en mécatronique"],
+    "OuvertTC" : false
+},
+
+"NR01": {
+    "Titre": "Normes et réglementation",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h", "PRJ" : "20h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCMC","SNM"],
+    "Programme": "connaître la génèse et l'élaboration des principales principales familles de textes réglementaires et nominatifs dans les domaines de la qualité, la sécurité et l'environnement \n-comprendre la structure des normes ISO 14001, ISO 9001, ISO 45001 et ISO 50001 et d'autres plus spécifiques dans le domaine des transports, de l'industrie et du bâtiment et de la RSE \n-comprendre le rôle potentiel des différentes fonctions de l'entreprise dans la structuration et la mise en œuvre des systèmes de management et de certification \n-réaliser un audit sécurité et qualité, environnement et énergie \n-déployer une démarche qualité en entreprise \n-appliquer la réglementation et les normes relatives aux substances ou produits",
+    "Objectif" : "Connaissance et application des aspects normatifs et règlementaires utiles à l'ingénieur dans le domaine de la qualité, la sécurité et l'environnement ainsi que d'autres plus spécifiques à des secteurs d'activités donnés.",
+    "Technologies" : ["Normes", "Réglementation"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Ingénieur en normes et réglementation", "Chercheur en normes et réglementation", "Expert en normes et réglementation", "Responsable de projet normes et réglementation"],
+    "OuvertTC" : false
+},
+
+"TN19": {
+    "Titre": "Techniques d'achat et de réduction des coûts",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCMC"],
+    "Programme": "-comprendre les techniques d'achat et de réduction des coûts \n-comprendre les méthodes de décomposition de coûts dans le domaine des matériaux en fonction des contextes économiques et géographiques \n-appréhender les techniques d'analyse de la stabilité des coûts durant la durée de vie d'un produit \n-maîtriser l'évaluation économique des techniques d'analyse de la valeur en fonction des choix technologiques \n-comprendre les méthodes d'optimisation des coûts dans les systèmes de production et de réduction des coûts",
+    "Objectif" : "présenter une approche généraliste des techniques d'achat et de réduction des coûts",
+    "Technologies" : ["Achat", "Réduction des coûts"],
+    "Modalite" : ["projet", "controles continus"],
+    "Métiers" : ["Responsable des achats et des approvisionnements", "Analyste des coûts", "Ingénieur en optimisation des processus", "Consultant en gestion des coûts", "Responsable des achats stratégiques", "Gestionnaire de contrats d'approvisionnement"],
+    "OuvertTC" : false
+},
+
+"OPTM01": {
+    "Titre": "Materials and devices in optics and optoelectronics",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "16h", "THE" : "78h", "PRJ" : "20h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TQM","EME"],
+    "Programme": "-Understand and describe optical properties of solid state materials and systems (dielectric, anisotropic, metallic, semiconductor, gratings, multilayers, waveguides, photonic crystals, metamaterials, laser materials) \n-Select materials and systems to meet identified needs regarding : absorption, transmission, reflection, filtering, confinement, guiding, dispersion, emission, detection, polarization states \n-Practical skills: setting a solid state laser, using a laser diode and a detector for gas sensing, using a CAD software to design multilayer filters and waveguides, playing with polarization states of light",
+    "Objectif" : "The objective is to study the various properties of solid state materials and structures involved telecommunications",
+    "Technologies" : ["Optical properties", "Solid state materials", "Laser materials", "CAD"],
+    "Modalite" : ["TP", "median", "final"],
+    "Métiers" : ["Responsable des achats et des approvisionnements", "Analyste des coûts", "Ingénieur en optimisation des processus", "Consultant en gestion des coûts", "Responsable des achats stratégiques", "Gestionnaire de contrats d'approvisionnement"],
+    "OuvertTC" : false
+},
+
+"CL01": {
+    "Titre": "Organisation logistique des échanges commerciaux",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h", "PRJ" : "15h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE","MM","GI"],
+    "Filiere": ["TCMC","LET", "TCBR"],
+    "Programme": "-connaître les acteurs globaux du commerce international \n-budgéter, financer et assurer les opérations de la logistique du commerce international \n-planifier et organiser le flux logistique internationale et gérer le transport (maritime, aérien, routier) \n-négocier et établir les contrats d'achat ou de vente avec des acteurs internationaux",
+    "Objectif" : "Gérer les opérations logistiques d'un projet d'exportation ou d'importation",
+    "Technologies" : ["Logistique", "Commerce international"],
+    "Modalite" : ["projet", "final"],
+    "Métiers" : ["Responsable logistique", "Responsable transport", "Responsable import-export", "Responsable achats", "Responsable approvisionnement", "Responsable supply chain", "Responsable logistique internationale", "Responsable logistique industrielle"],
+    "OuvertTC" : false
+},
+
+"CS05": {
+    "Titre": "Dimensionnement économique de composants",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "THE" : "94h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["TCMC","TQM"],
+    "Programme": "-maîtriser le choix des procédés et des matériaux (méthode d'Ashby) \n-savoir décrire finement le cahier des charges d'un composant (Mécaniquement, thermiquement, chimiquement, etc.) \n-maîtriser le dimensionnement économique d'une structure en combinant les interactions matériaux/procédés \n-savoir justifier des choix en prenant en compte des éléments techniques et économiques",
+    "Objectif" : "Analyser les coûts d'un composant à différentes étapes de son cycle de vie en intégrant des notions de choix des procédés liés aux matériaux.",
+    "Technologies" : ["Choix des procédés", "Matériaux", "Cahier des charges", "Dimensionnement économique", "CES"],
+    "Modalite" : ["projet", "final"],
+    "Métiers" : ["Responsable des achats et des approvisionnements", "Analyste des coûts", "Ingénieur en optimisation des processus", "Consultant en gestion des coûts", "Responsable des achats stratégiques", "Gestionnaire de contrats d'approvisionnement"],
+    "OuvertTC" : false
+},
+
+"EV12": {
+    "Titre": "Dimensionnement économique de composants",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "22h","TP" : "22h", "THE" : "80h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE","GM"],
+    "Filiere": ["EME","TCBR"],
+    "Programme": "-être en mesure de mener une démarche d'écoconception \n-évaluer la performance environnementale d'un produit ou d'un système \n-identifier les points faibles d'un système \n-pouvoir optimiser le système d'un point de vue environnement, en utilisant des outils d'écoinnovation et des connaissancees techniques \n-maîtriser la méthode d'analyse du cycle de vie \n-recueillir, mobiliser, exploiter et interpréter les informations trouvées dans plusieurs sources \n-comprendre les enjeux de recyclage et pouvoir intégrer ces enjeux en conception",
+    "Objectif" : "La prise de conscience des limites des écosystèmes et l'évolution des pressions sociétales (réglementation, clients, coûts d'approvisionnement ressources) poussent les entreprises à réduire à la source les impacts environnementaux en intégrant l'écoconception, la conception pour le recyclage et les technologies plus responsables dans leur systèmes.",
+    "Technologies" : ["Ecoconception", "Analyse du cycle de vie", "Recyclage"],
+    "Modalite" : ["projet", "contrôles continus"],
+    "Métiers" : ["Responsable environnement", "Responsable développement durable"],
+    "OuvertTC" : false
+},
+
+"ME11": {
+    "Titre": "Matériaux et transition énergétique",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h","TP" : "14h", "THE" : "80h", "PRJ" : "8h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["MTE"],
+    "Filiere": ["EME","TCMC"],
+    "Programme": "-enjeux énergétiques et climatiques \n-règlementation et environnement socio-économique de la transition énergétique \n-développement de nouveaux matériaux pour : .le stockage de l'énergie .le transport .l'habitat .l'éclairage \n-technologies et solutions modernes de production d'énergie \n-dimensionnement et chiffrage des énergies renouvelables",
+    "Objectif" : "La transition énergétique passe par la connaissance de nouvelles technologies et de nouveaux composants. Cette UE propose d'avoir un regard technique, économique et environnemental sur ces différents aspects.",
+    "Technologies" : ["RETscreen","Stockage de l'énergie", "Transport", "Habitat", "Eclairage", "Energies renouvelables"],
+    "Modalite" : ["projet", "contrôles continus", "final", "TP"],
+    "Métiers" : ["Ingénieur en énergie renouvelable", "Chargé de recherche en matériaux pour l'énergie", "Ingénieur en développement de solutions énergétiques durables", "Responsable en gestion de l'énergie et des matériaux", "Expert en matériaux pour la transition énergétique", "Ingénieur en efficacité énergétique des matériaux", "Technicien en conception de systèmes énergétiques durables", "Analyste en stratégies énergétiques et matériaux"],
+    "OuvertTC" : false
+},
+
+"TN14": {
+    "Titre": "Introduction à la modélisation 3D",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "22h", "TD" : "42h", "THE" : "86h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Français","Anglais"],
+    "Branche" : ["MTE", "GM"],
+    "Filiere": ["EME","TQM"],
+    "Programme": "Manipuler les applications de CAO: -créer des esquisses correctement contraintes -utiliser les fonctions de création de géométrie -utiliser les opérations de transformation -organiser une démarche de modélisation Utiliser la CAO pour favoriser la continuité numérique: -utiliser les fonctions adaptées aux procédés de fabrication -réutiliser des informations pour modéliser une pièce -modéliser la géométrie de chaque étape de fabrication en assurant l'associativité des modèles obtenus Manipuler les méthodes de modélisation: -modéliser un assemblage -utiliser les contraintes d'assemblage -prendre en compte les procédés d'assemblage -utiliser des paramètres utilisateurs Proposer les spécifications du modèle: -évaluer la qualité d'un modèle -fixer des hypothèses de modifications -utiliser des standards -présenter une stratégie de modélisation",
+    "Objectif" : "-utiliser deux applications de modélisation 3D -utiliser les méthodes de modélisation volumiques -comprendre le rôle de la CAO -comprendre les intentions de conception et proposer les démarches de modélisation associées",
+    "Technologies" : ["CAO", "Modélisation 3D", "CATIA", "CREO"],
+    "Modalite" : ["contrôles continus", "final"],
+    "Métiers" : ["Ingénieur en conception mécanique", "Ingénieur en simulation numérique", "Ingénieur en validation des modèles", "Technicien en essais mécaniques", "Ingénieur en fiabilité des structures", "Ingénieur en matériaux et structures", "Ingénieur en recherche et développement", "Ingénieur en mécatronique"],
+    "OuvertTC" : false
+},
+
 
 
 
