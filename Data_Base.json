@@ -1602,7 +1602,6 @@ TC :
 -Ajouter des UE du TC ici 
 
 
-
 RT :
 "IF01": {
     "Titre": "Théorie et codage de l'information",
@@ -3054,5 +3053,179 @@ EC:
     "Métiers" : [],
     "OuvertTC" : true
 },
-
-
+"LE00": {
+    "Titre": "Anglais - Remise à niveau A2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille et d'autres gens, mes conditions de vie, ma formation actuelle ou récente \n -communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers \n -comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près \n -trouver une information prévisible dans des documents contemporains \n -écrire des messages simples et courts liés à la vie courante ",
+    "Objectif" : "-introduction et consolidation des structures lexicales et grammaticales de base de la langue anglaise, pour atteindre le socle de compétences langagières et interactionnelles attendues au niveau pré-intermédiaire",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE01": {
+    "Titre": "Anglais - niveau pratique B1"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc.\n -comprendre des textes rédigés essentiellement dans une langue courante \n -prendre part sans préparation à une conversation sur des sujets familiers ou d'intérêt personnel ou qui concernent la vie quotidienne \n -brièvement donner les raisons et explications de mes opinions ou projets \n -écrire un texte simple et cohérent sur des sujets familiers ou qui m'intéressent personnellement",
+    "Objectif" : "-s'approprier et consolider du vocabulaire et des structures grammaticales de niveau B1 \n -savoir communiquer dans des situations familières de la vie courante",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE02": {
+    "Titre": "Anglais - Niveau pratique B1/B2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-être capable de prendre part à une conversation sur des situations familières ou d'intérêt personnel ou qui concernent certains aspects de la vie professionnelle \n -comprendre des conversations et monologues portant sur la vie courante et professionnelle \n -comprendre des textes rédigés dans une langue courante ou relative au travail \n -être capable d'écrire une lettre de motivation et des demandes de renseignements cohérentes",
+    "Objectif" : "-acquérir du vocabulaire et des structures grammaticales plus poussées \n -améliorer ses capacités à s'exprimer en anglais dans des situations de communication de la vie courante et professionnelle dans des situations prévisibles",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE03": {
+    "Titre": "Anglais - Niveau pratique B2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-être capable de prendre part à une conversation sur des situations familières ou d'intérêt personnel ou qui concernent certains aspects de la vie professionnelle \n -comprendre des conversations et monologues portant sur la vie courante et professionnelle \n -comprendre des textes rédigés dans une langue courante ou relative au travail \n -être capable d'écrire une lettre de motivation et des demandes de renseignements cohérentes",
+    "Objectif" : "-consolidations lexicales et grammaticales de niveau B2 \n -maîtrise de la communication dans des situations variées de la vie courante et professionnelle",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE08": {
+    "Titre": "Professional english, Linguaskill reading and listening and speaking test preparation (C1)"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre rapidement des articles, mails, mémos, tableaux, graphiques rédigés dans un contexte professionnel, et dans d'autres domaines \n -communiquer efficacement et traiter des questions appartenant à un domaine différent du sien et assurer tous les échanges dans une conversation \n -rédiger des messages dans un contexte professionnel et dans d'autres domaines, avec un minimum d'erreurs \n -suivre et comprendre des échanges suivant l'ordre du jour d'une réunion, d'un séminaire, et tenir une conversation dans le contexte du monde du travail",
+    "Objectif" : "Fournir et compléter les compétences nécessaires à l'obtention du niveau B2+ minimum",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE11": {
+    "Titre": "Anglais pratique dans les domaines scientifiques et techniques"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-analyser des innovations techniques et leurs applications actuelles \n -comprendre, expliquer et examiner les problématiques industrielles dans divers domaines \n -utiliser un langage approprié et un lexique professionnel pour enquêter et proposer une solution optimale à des obstacles qui ont été surmontés dans des projets réels d'ingénierie \n -produire des présentations orales et la documentation pertinente associée en langue anglaise",
+    "Objectif" : "Découvrir et analyser, en langue anglaise d'un niveau C1-C2, des innovations de l'ingénierie dans le monde.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE17": {
+    "Titre": "English for Academic Purposes, IELTS and TOEFL preparation"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre tout document académique sauf les documents les plus spécialisés \n -être capable de s'exprimer d'une manière persuasive face à un locuteur natif et d'une manière efficace et soutenue lors de présentations de divers sujets académiques \n -rédiger des "essays" et "intergrated tasks" sur la plupart des sujets et écrire sous la dictée d'un maître de conférence, même sur des sujets inconnus",
+    "Objectif" : "-préparation aux niveaux C1/C2 dans l'optique d'un semestre d'étude dans un pays anglophone \n -réussite du TOEFL 90+ et IELTS 6.5+",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE19": {
+    "Titre": "Conversation, Argumentation and Pronunciation"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "28h","THE": "40h","PRJ": "20h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-savoir argumenter, défendre son point vu dans un débat \n -perfectionnement de prononciation et travaille phonétique \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes du la vie quotidienne \n -connaissance et analyse phonétique de différentes variétés d'anglais utilisées dans le monde",
+    "Objectif" : "-approfondissement des compétences orales \n -perfectionnement des structures lexicales dans des situations de la vie quotidienne \n -élargir ses connaissances de variétés de la langue anglaise",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE20": {
+    "Titre": "Professionalization and Cross Cultural studies"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "28h","THE": "40h","PRJ": "20h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-présentation individuelle lors d'entretien d'embauche \n -pouvoir négocier et animer une réunion \n -faire des présentations claires et efficaces et argumenter son point de vue \n -travailler sur des études de cas interculturelles \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes de la vie professionnelle ou académique \n -maintenir un excellent niveau de compréhension orale et écrite sur des thèmes variés \n -recherches d'informations pratiques sur les pays concernés pour permettre une bonne intégration",
+    "Objectif" : "Professionalization and Cross Cultural studies",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LE21P": {
+    "Titre": "Maîtriser l'anglais sur une thématique métier"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "38h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "Techniques, outils et méthodes utilisés dans l'UE : \n -présentations \n -entretiens contexte professionnelle \n -rapport",
+    "Objectif" : "-analyser des innovations techniques et leurs applications actuelles \n -comprendre, expliquer et examiner les problématiques industrielles dans divers domaines \n -utiliser un langage approprié et un lexique professionnel pour enquêter et proposer une solution optimale à des obstacles qui ont été surmontés dans des projets réels d'ingénierie \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes de la vie professionnelle",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LESI": {
+    "Titre": "Remédiation des fondamentaux B1-B2"
+    "Type": "EC",
+    "Credits": 2,
+    "Repartition": {"TD": "38h"},
+    "Disponibilité": ["Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-communiquer dans diverses situations \n -comprendre les contextes divers pour l'utilisation du temps \n -apprendre à maîtriser des structures grammaticales telles que prépositions, modaux, conditionnel, dans le but de rendre l'échange orale de la langue anglaise plus fluide \n -élargir votre vocabulaire et l'utilisation du langage idiomatique \n -développé des stratégies de lecture et des compétences orales efficaces",
+    "Objectif" : "-remise au niveau et consolider des structures lexicales et grammaticales niveau B1-B2 \n -améliorer votre expression et compréhension orale de la langue anglaise",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
