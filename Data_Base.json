@@ -2395,3 +2395,134 @@ GI:
     "Métiers" : ["Analyste des risques industriels", "Ingénieur en sécurité des installations", "Spécialiste en gestion de la sécurité environnementale", "Consultant en gestion des risques et crises"],
     "OuvertTC" : false
 },
+
+ST:
+
+"APPTC": {
+    "Titre": "Accompagnement au projet personnel de formation"
+    "Type": "ST",
+    "Credits": 1,
+    "Repartition": {"C" : "6h","TD" : "6h","THE": "25h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": [],
+    "Programme": "-savoir identifier les compétences à acquérir et les consolider pour un/des métier(s)cible(s) \n -savoir évaluer son niveau relatif aux différentes compétences identifiées \n -savoir identifier les actions et activités pédagogiques ou autres permettant d'acquérir de nouvelles compétences ou d'améliorer son niveau de compétence \n -savoir mettre en œuvre une stratégie de formation personnelle construite, cohérente et évolutive \n -savoir présenter ses compétences à travers un portfolio \n -savoir engager des entretiens construits avec des professionnels afin de mieux cerner les compétences propres aux métiers désirés",
+    "Objectif" : "L'UE a pour objectif d'apporter des éléments de connaissance et de méthode afin de développer son projet professionnel dès le début du cursus universitaire et d'y adapter ses choix de formation. Son but est de former à la démarche compétence et à la démarche réseau.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["UE en ligne"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"ST05": {
+    "Titre": "Stage technique"
+    "Type": "ST",
+    "Credits": 6,
+    "Repartition": {"STG": "4 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": [],
+    "Programme": "-être capable de s'intégrer dans un milieu professionnel et une équipe de travail \n -être capable de réaliser les activités demandées avec professionnalisme \n -être capable de rechercher des informations sur son environnement de travail (observations, échanges) pour comprendre le fonctionnement d'une entreprise et, si possible, le rôle d'un ingénieur \n -être capable de présenter à l'écrit et à l'oral son expérience de manière synthétique et claire,et si possible de questionner la réalité, technique et sociale, des conditions de travail",
+    "Objectif" : "Le stage technique a pour but de permettre la découverte de l'entreprise, son organisation et ses modes de fonctionnement. Il donne à l'étudiant sa première expérience professionnelle. Il permet à travers les livrables de développer la communication écrite et orale.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"ST09": {
+    "Titre": "Stage professionnel"
+    "Type": "ST",
+    "Credits": 30,
+    "Repartition": {"STG": "24 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GI","ISI","GM","MM","MTE","RT","A2I"],
+    "Filiere": [],
+    "Programme": "-être capable de s'intégrer dans un contexte professionnel nouveau \n -être capable de mobiliser les connaissances et savoir-faire acquis en formation pour apporter de la valeur ajoutée à l'organisme d'accueil \n -être capable de réaliser, de manière autonome et avec le niveau de responsabilité requis, des activités relevant de son champ de compétences \n -être capable de valoriser les activités réalisées, les résultats obtenus et les nouvelles compétences acquises aussi bien par écrit qu'à l'oral",
+    "Objectif" : "Le «stage ST09» a pour objectifs de développer la connaissance du milieu de l'entreprise, d'appliquer et valoriser les connaissances et savoir-faire acquis à l'UTT, de réaliser un travail personnel mettant en oeuvre des compétences techniques et de valider l'orientation professionnelle et le choix de filière.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : false
+},
+"ST10": {
+    "Titre": "Projet de fin d'étude"
+    "Type": "ST",
+    "Credits": 30,
+    "Repartition": {"STG": "24 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GI","ISI","GM","MM","MTE","RT","A2I"],
+    "Filiere": [],
+    "Programme": "-être capable de s'intégrer dans un contexte professionnel nouveau \n -être capable de mobiliser les connaissances et savoir-faire acquis en formation pour apporter de la valeur ajoutée à l'organisme d'accueil \n -être capable de réaliser, de manière autonome et avec le niveau de responsabilité requis, des activités relevant de son champ de compétences \n -être capable de valoriser les activités réalisées, les résultats obtenus et les nouvelles compétences acquises aussi bien par écrit qu'à l'oral",
+    "Objectif" : "Le « projet de fi n d'études » vise à la réalisation d'un travail d'ingénieur en conformité avec le projet professionnel de l'étudiant. Ce travail doit être en cohérence avec le diplôme préparé et l'étudiant doit être amené à gérer entièrement un projet, à être force de propositions et à faire preuve d'autonomie.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : false
+},
+"ST40": {
+    "Titre": "Projet en laboratoire pour un étudiant d'échange"
+    "Type": "ST",
+    "Credits": 30,
+    "Repartition": {"STG": "24 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GI","ISI","GM","MM","MTE","RT","A2I"],
+    "Filiere": [],
+    "Programme": "-le sujet est proposé par un enseignant-chercheur de l'UTT et validé par l'université d'envoi \n -le sujet doit répondre au projet professionnel de l'étudiant \n -chaque étudiant est suivi par l'enseignant qui l'accueille dans son laboratoire \n -le projet fait l'objet d'un rapport et d'une soutenance orale devant un jury",
+    "Objectif" : "-permettre à un étudiant d4échange de participer à un projet de recherche dans un des laboratoires de l'UTT",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : false
+},
+"ST51": {
+    "Titre": "Projet de fin d'études en alternance Partie 1"
+    "Type": "ST",
+    "Credits": 18,
+    "Repartition": {"STG": "24 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GI","GM","SN"],
+    "Filiere": [],
+    "Programme": "-être capable de s'intégrer dans un contexte professionnel nouveau \n -être capable de mobiliser les connaissances et savoir-faire acquis en formation pour apporter de la valeur ajoutée à l'organisme d'accueil \n -être capable de réaliser, de manière autonome et avec le niveau de responsabilité requis, des activités relevant de son champ de compétences \n -être capable de valoriser les activités réalisées, les résultats obtenus et les nouvelles com \n -pétences acquises aussi bien par écrit qu'à l'oral",
+    "Objectif" : "Le « projet de fin d'études » vise à la réalisation d'un travail d'ingénieur en conformité avec le projet professionnel de l'étudiant. Ce travail doit être en cohérence avec le diplôme préparé et l'étudiant doit être amené à gérer entièrement un projet, à être force de propositions et à faire preuve d'autonomie.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : false
+},
+"ST52": {
+    "Titre": "Projet de fin d'études en alternance Partie 2"
+    "Type": "ST",
+    "Credits": 12,
+    "Repartition": {"STG": "24 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GI","GM","SN"],
+    "Filiere": [],
+    "Programme": "-être capable de s'intégrer dans un contexte professionnel nouveau \n -être capable de mobiliser les connaissances et savoir-faire acquis en formation pour apporter de la valeur ajoutée à l'organisme d'accueil \n -être capable de réaliser, de manière autonome et avec le niveau de responsabilité requis, des activités relevant de son champ de compétences \n -être capable de valoriser les activités réalisées, les résultats obtenus et les nouvelles com \n -pétences acquises aussi bien par écrit qu'à l'oral",
+    "Objectif" : "Le « projet de fin d'études » vise à la réalisation d'un travail d'ingénieur en conformité avec le projet professionnel de l'étudiant. Ce travail doit être en cohérence avec le diplôme préparé et l'étudiant doit être amené à gérer entièrement un projet, à être force de propositions et à faire preuve d'autonomie.",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : false
+},
+"TN07": {
+    "Titre": "Séjour culturel et linguistique à l'étranger"
+    "Type": "ST",
+    "Credits": 4,
+    "Repartition": {"STG": "24 semaines"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GI","GM","SN"],
+    "Filiere": [],
+    "Programme": "-être capable d'élaborer une problématique et de définir des stratégies pour mener une enquête sur place \n -organiser la logistique d'un séjour d'au moins quatre semaines à l'étranger \n -collecter des informations pertinentes et authentiques à l'aide de questionnaires ou d'autres dispositifs \n -montrer des capacités d'analyse personnelle à partir des expériences vécues \n -rédiger un rapport détaillé en français et mener une soutenance devant un jury, de préférence dans la langue du pays choisi",
+    "Objectif" : "-proposition d'un sujet et d'une problématique afférant à un pays spécifique \n -prise de conscience des défis liés à la mobilité internationale",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Rapport","Soutenance"],
+    "Métiers" : [],
+    "OuvertTC" : false
+},
