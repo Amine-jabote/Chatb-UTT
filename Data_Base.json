@@ -2526,3 +2526,56 @@ ST:
     "Métiers" : [],
     "OuvertTC" : false
 },
+
+EC:
+
+"LC00": {
+    "Titre": "Chinois niveau pré-A1/A1 "
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["chinois"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre quelques phrases simples \n -connaître quelques idéogrammes chinois \n -rédiger des mots et phrases très simples \n -utiliser des expressions et des phrases simples pour décrire et parler ",
+    "Objectif" : "-apprendre les bases de la communication orale et écrite \n -communiquer dans des situations simples de la vie courante \n -appréhender la société chinoise à travers sa langue et sa culture \n -préparer un semestre d'échange en Chine",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["Controles continus","median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LC01": {
+    "Titre": "Chinois niveau A1/A2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["chinois"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des mots familiers et des expressions très courantes, si les gens parlent lentement. Peut comprendre des noms familiers, des mots ainsi que des phrases très simples \n -communiquer, de façon simple avec un interlocuteur disposé à répéter ou à reformuler ses phrases plus lentement et poser et répondre à des questions simples sur des sujets familiers \n -utiliser des expressions et des phrases simples pour décrire et parler de choses connues \n -rédiger dans une écriture simple et courte",
+    "Objectif" : "-maîtriser les bases de la communication orale et écrite\n -communiquer dans la plupart des situations simples de la vie courante \n -améliorer ses connaissance de la société chinoise et la communication afin d'envisager des études ou un stage en Chine",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LC02": {
+    "Titre": "Chinois niveau A2/B1"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["chinois"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des expressions et un vocabulaire très fréquents et saisir l'essentiel d'annonces et de messages simples et clairs \n -trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus etc, comprendre des textes journalistiques et littéraires, des lettres personnelles courtes et simples \n -communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers et avoir des échanges très brefs même si, en règle générale, cela reste insuffisant pour poursuivre une conversation \n -écrire des notes et messages simples et courts : une lettre personnelle très simple, par exemple une lettre ou un e-mail ",
+    "Objectif" : "-approfondissement des connaissances grammaticales et de la structure de la langue \n -parvenir à une expression orale assez aisée \n -histoire contemporaine de la Chine",
+    "Technologies" : ["Aucune"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+
