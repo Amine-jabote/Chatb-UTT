@@ -3016,7 +3016,7 @@ EC:
     "Filiere": [],
     "Programme": "-comprendre quelques phrases simples \n -connaître quelques idéogrammes chinois \n -rédiger des mots et phrases très simples \n -utiliser des expressions et des phrases simples pour décrire et parler ",
     "Objectif" : "-apprendre les bases de la communication orale et écrite \n -communiquer dans des situations simples de la vie courante \n -appréhender la société chinoise à travers sa langue et sa culture \n -préparer un semestre d'échange en Chine",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["chinois"], 
     "Modalite" : ["Controles continus","median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3032,7 +3032,7 @@ EC:
     "Filiere": [],
     "Programme": "-comprendre des mots familiers et des expressions très courantes, si les gens parlent lentement. Peut comprendre des noms familiers, des mots ainsi que des phrases très simples \n -communiquer, de façon simple avec un interlocuteur disposé à répéter ou à reformuler ses phrases plus lentement et poser et répondre à des questions simples sur des sujets familiers \n -utiliser des expressions et des phrases simples pour décrire et parler de choses connues \n -rédiger dans une écriture simple et courte",
     "Objectif" : "-maîtriser les bases de la communication orale et écrite\n -communiquer dans la plupart des situations simples de la vie courante \n -améliorer ses connaissance de la société chinoise et la communication afin d'envisager des études ou un stage en Chine",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["chinois"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3048,7 +3048,23 @@ EC:
     "Filiere": [],
     "Programme": "-comprendre des expressions et un vocabulaire très fréquents et saisir l'essentiel d'annonces et de messages simples et clairs \n -trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus etc, comprendre des textes journalistiques et littéraires, des lettres personnelles courtes et simples \n -communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers et avoir des échanges très brefs même si, en règle générale, cela reste insuffisant pour poursuivre une conversation \n -écrire des notes et messages simples et courts : une lettre personnelle très simple, par exemple une lettre ou un e-mail ",
     "Objectif" : "-approfondissement des connaissances grammaticales et de la structure de la langue \n -parvenir à une expression orale assez aisée \n -histoire contemporaine de la Chine",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["chinois"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LXLC": {
+    "Titre": "Tandem chinois"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"THE": "140h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["chinois"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des expressions et un vocabulaire très fréquents et saisir l'essentiel d'annonces et de messages simples et clairs \n -trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus etc, comprendre des textes journalistiques et littéraires, des lettres personnelles courtes et simples \n -communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers et avoir des échanges très brefs même si, en règle générale, cela reste insuffisant pour poursuivre une conversation \n -écrire des notes et messages simples et courts : une lettre personnelle très simple, par exemple une lettre ou un e-mail  ",
+    "Objectif" : "-approfondissement des connaissances grammaticales et de la structure de la langue \n -parvenir à une expression orale assez aisée \n -histoire contemporaine de la Chine",
+    "Technologies" : ["chinois"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3064,7 +3080,7 @@ EC:
     "Filiere": [],
     "Programme": "-utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille et d'autres gens, mes conditions de vie, ma formation actuelle ou récente \n -communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers \n -comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près \n -trouver une information prévisible dans des documents contemporains \n -écrire des messages simples et courts liés à la vie courante ",
     "Objectif" : "-introduction et consolidation des structures lexicales et grammaticales de base de la langue anglaise, pour atteindre le socle de compétences langagières et interactionnelles attendues au niveau pré-intermédiaire",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3080,7 +3096,7 @@ EC:
     "Filiere": [],
     "Programme": "-comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc.\n -comprendre des textes rédigés essentiellement dans une langue courante \n -prendre part sans préparation à une conversation sur des sujets familiers ou d'intérêt personnel ou qui concernent la vie quotidienne \n -brièvement donner les raisons et explications de mes opinions ou projets \n -écrire un texte simple et cohérent sur des sujets familiers ou qui m'intéressent personnellement",
     "Objectif" : "-s'approprier et consolider du vocabulaire et des structures grammaticales de niveau B1 \n -savoir communiquer dans des situations familières de la vie courante",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3096,7 +3112,7 @@ EC:
     "Filiere": [],
     "Programme": "-être capable de prendre part à une conversation sur des situations familières ou d'intérêt personnel ou qui concernent certains aspects de la vie professionnelle \n -comprendre des conversations et monologues portant sur la vie courante et professionnelle \n -comprendre des textes rédigés dans une langue courante ou relative au travail \n -être capable d'écrire une lettre de motivation et des demandes de renseignements cohérentes",
     "Objectif" : "-acquérir du vocabulaire et des structures grammaticales plus poussées \n -améliorer ses capacités à s'exprimer en anglais dans des situations de communication de la vie courante et professionnelle dans des situations prévisibles",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3112,7 +3128,7 @@ EC:
     "Filiere": [],
     "Programme": "-être capable de prendre part à une conversation sur des situations familières ou d'intérêt personnel ou qui concernent certains aspects de la vie professionnelle \n -comprendre des conversations et monologues portant sur la vie courante et professionnelle \n -comprendre des textes rédigés dans une langue courante ou relative au travail \n -être capable d'écrire une lettre de motivation et des demandes de renseignements cohérentes",
     "Objectif" : "-consolidations lexicales et grammaticales de niveau B2 \n -maîtrise de la communication dans des situations variées de la vie courante et professionnelle",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3128,7 +3144,7 @@ EC:
     "Filiere": [],
     "Programme": "-comprendre rapidement des articles, mails, mémos, tableaux, graphiques rédigés dans un contexte professionnel, et dans d'autres domaines \n -communiquer efficacement et traiter des questions appartenant à un domaine différent du sien et assurer tous les échanges dans une conversation \n -rédiger des messages dans un contexte professionnel et dans d'autres domaines, avec un minimum d'erreurs \n -suivre et comprendre des échanges suivant l'ordre du jour d'une réunion, d'un séminaire, et tenir une conversation dans le contexte du monde du travail",
     "Objectif" : "Fournir et compléter les compétences nécessaires à l'obtention du niveau B2+ minimum",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3144,7 +3160,7 @@ EC:
     "Filiere": [],
     "Programme": "-analyser des innovations techniques et leurs applications actuelles \n -comprendre, expliquer et examiner les problématiques industrielles dans divers domaines \n -utiliser un langage approprié et un lexique professionnel pour enquêter et proposer une solution optimale à des obstacles qui ont été surmontés dans des projets réels d'ingénierie \n -produire des présentations orales et la documentation pertinente associée en langue anglaise",
     "Objectif" : "Découvrir et analyser, en langue anglaise d'un niveau C1-C2, des innovations de l'ingénierie dans le monde.",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3160,7 +3176,7 @@ EC:
     "Filiere": [],
     "Programme": "-comprendre tout document académique sauf les documents les plus spécialisés \n -être capable de s'exprimer d'une manière persuasive face à un locuteur natif et d'une manière efficace et soutenue lors de présentations de divers sujets académiques \n -rédiger des "essays" et "intergrated tasks" sur la plupart des sujets et écrire sous la dictée d'un maître de conférence, même sur des sujets inconnus",
     "Objectif" : "-préparation aux niveaux C1/C2 dans l'optique d'un semestre d'étude dans un pays anglophone \n -réussite du TOEFL 90+ et IELTS 6.5+",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3176,7 +3192,7 @@ EC:
     "Filiere": [],
     "Programme": "-savoir argumenter, défendre son point vu dans un débat \n -perfectionnement de prononciation et travaille phonétique \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes du la vie quotidienne \n -connaissance et analyse phonétique de différentes variétés d'anglais utilisées dans le monde",
     "Objectif" : "-approfondissement des compétences orales \n -perfectionnement des structures lexicales dans des situations de la vie quotidienne \n -élargir ses connaissances de variétés de la langue anglaise",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3192,7 +3208,7 @@ EC:
     "Filiere": [],
     "Programme": "-présentation individuelle lors d'entretien d'embauche \n -pouvoir négocier et animer une réunion \n -faire des présentations claires et efficaces et argumenter son point de vue \n -travailler sur des études de cas interculturelles \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes de la vie professionnelle ou académique \n -maintenir un excellent niveau de compréhension orale et écrite sur des thèmes variés \n -recherches d'informations pratiques sur les pays concernés pour permettre une bonne intégration",
     "Objectif" : "Professionalization and Cross Cultural studies",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3208,7 +3224,7 @@ EC:
     "Filiere": [],
     "Programme": "Techniques, outils et méthodes utilisés dans l'UE : \n -présentations \n -entretiens contexte professionnelle \n -rapport",
     "Objectif" : "-analyser des innovations techniques et leurs applications actuelles \n -comprendre, expliquer et examiner les problématiques industrielles dans divers domaines \n -utiliser un langage approprié et un lexique professionnel pour enquêter et proposer une solution optimale à des obstacles qui ont été surmontés dans des projets réels d'ingénierie \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes de la vie professionnelle",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
@@ -3224,8 +3240,220 @@ EC:
     "Filiere": [],
     "Programme": "-communiquer dans diverses situations \n -comprendre les contextes divers pour l'utilisation du temps \n -apprendre à maîtriser des structures grammaticales telles que prépositions, modaux, conditionnel, dans le but de rendre l'échange orale de la langue anglaise plus fluide \n -élargir votre vocabulaire et l'utilisation du langage idiomatique \n -développé des stratégies de lecture et des compétences orales efficaces",
     "Objectif" : "-remise au niveau et consolider des structures lexicales et grammaticales niveau B1-B2 \n -améliorer votre expression et compréhension orale de la langue anglaise",
-    "Technologies" : ["Aucune"], 
+    "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
     "Métiers" : [],
     "OuvertTC" : true
 },
+"LX10": {
+    "Titre": "Formation à l'anglais à distance (préparation BULATS durant le stage de fin d'études)"
+    "Type": "EC",
+    "Credits": 2,
+    "Repartition": {"THE": "40h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Anglais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-présentation individuelle lors d'entretien d'embauche \n -pouvoir négocier et animer une réunion \n -faire des présentations claires et efficaces et argumenter son point de vue \n -travailler sur des études de cas interculturelles \n -savoir s'exprimer de façon claire et bien structurée sur des sujets complexes de la vie professionnelle ou académique \n -maintenir un excellent niveau de compréhension orale et écrite sur des thèmes variés \n -recherches d'informations pratiques sur les pays concernés pour permettre une bonne intégration",
+    "Objectif" : "Professionalization and Cross Cultural studies",
+    "Technologies" : ["anglais"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+"LS00": {
+    "Titre": "Espagnol - Niveau débutant A1/A2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des expressions et un vocabulaire très fréquent et saisir l'essentiel d'annonces et de messages simples et clairs à l'oral comme à l'écrit \n -trouver une information particulière prévisible dans des documents courants (publicités, prospectus, menus et horaires) \n -communiquer lors de tâches simples et courantes ne demandant qu'un échange d'informations simples sur des sujets familiers et donner son opinion \n -écrire des notes et messages simples et courts : une lettre personnelle très simple, par exemple lettre ou mail de remerciementse",
+    "Objectif" : "-approfondissement du langage et des structures grammaticales fondamentales \n -prise de parole sur des sujets préparés (jeux de rôles...) \n -communication et interaction sur des situations simples de la vie courante",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LS01": {
+    "Titre": "Espagnol - Niveau intermédiaire A2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des mots familiers et des expressions très courantes, si les gens parlent lentement \n -communiquer, de façon simple avec un interlocuteur disposé à répéter ou à reformuler ses phrases plus lentement et poser et répondre à des questions simples sur des sujets familiers \n -utiliser des expressions et des phrases simples pour décrire et parler de choses connues \n -rédiger des notes et messages simples et courts, prendre un rendez-vous, remplir un formulaire simple",
+    "Objectif" : "-approfondissement du langage et des structures grammaticales fondamentales \n -prise de parole sur des sujets préparés (jeux de rôles...) \n -communication et interaction sur des situations simples de la vie courante",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LS02": {
+    "Titre": "Espagnol - Niveau pratique B1"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-communiquer de façon simple dans la majorité des situations courantes sans préparation. Relater des faits, des expériences et exprimer ses réactions \n -comprendre l'idée principale des textes rédigés, de documents télévisés ou audio essentiellement dans une langue courante ou relative au monde du travail \n -identifier les informations importantes d'un texte écrit ou à l'oral et pouvoir donner son avis sur un thème soulevé \n -produire des écrits simples et cohérents sur des sujets familiers. Ecrire des lettres personnelles pour décrire ses expériences et impressions",
+    "Objectif" : "-approfondissement du langage et des structures grammaticales de niveau B1 \n -amélioration de la communication et interaction dans la plupart des situations de la vie courante et professionnelle \n -deux entretiens individuels dont 1 à partir d'un article de presse en espagnol",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LS03": {
+    "Titre": "Espagnol - Niveau pratique B1/B2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-communiquer de manière compréhensible et claire sur un vaste champ de sujets courants et professionnels et participer activement à une conversation \n -comprendre l'idée principale et les détails d'un discours portant sur des thèmes connus ou moins connus quand un langage clair et standard est utilisé \n -identifier rapidement et de manière fine les informations importantes d'un texte écrit et savoir en rendre compte et donner son point de vue \n -produire des écrits divers plus complexes en utilisant les structures adaptées à la vie quotidienne ainsi qu'au monde du travail",
+    "Objectif" : "-communiquer et réagir dans des situations variées de la vie courante et professionnelle \n -rédaction de lettres et CV en espagnol \n -réalisation d'entretiens d'embauche au travers d'un jeu de création d'entreprise et entretiens individuels sur articles",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LS08": {
+    "Titre": "Espagnol - Niveau avancé B2 à C1"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre et commenter sans trop d'effort un long discours ou des émissions de télévision ou informations même s'il n'est pas clairement structuré et que les articulations sont seulement implicites \n -communiquer dans des situations familières, présenter et défendre son point de vue avec un degré de spontanéité et d'aisance qui rend possible une interaction normale avec un locuteur natif \n -s'exprimer de façon claire et détaillée sur une grande gamme de sujets divers \n -rédiger des textes clairs et des documents professionnels bien structurés et développer son point de vue",
+    "Objectif" : "-consolidations et approfondissement des structures lexicales et grammaticales de niveau B2+/C1 \n -maîtrise de la communication dans des situations variées de la vie courante et professionnelle avec une relative aisance et spontanéité",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LS10": {
+    "Titre": "Espagnol - Niveau pratique B2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-s'exprimer de manière continue et claire sur un vaste champ de sujets courants et professionnels \n -comprendre l'idée principale et les détails d'un discours portant sur des thèmes connus et peu connus \n -identifier rapidement et de manière fine les informations importantes d'un texte écrit \n -produire des demandes écrites de manière précise et professionnelle ",
+    "Objectif" : "-consolidations lexicales et grammaticales de niveau B2 \n -maîtrise de la communication dans des situations variées de la vie courante et professionnelle",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LS11": {
+    "Titre": "Espagnol - Niveau pratique B2+/C1 (Post LS08)"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-être capable de s'exprimer de manière continue et claire sur un vaste champ de sujets courants et professionnels, faits sociétaux contemporains \n -exprimer son accord ou désaccord de façon claire et précise et savoir se justifier en s'appuyant sur des exemples concrets \n -identifier rapidement et de manière fine les informations importantes d'un texte écrit \n -présenter un sujet de façon à ce qu'il entraîne un débat d'idées ",
+    "Objectif" : "-apprentissage du débat d'idée et interaction entre étudiants sur sujets pointilleux \n -développer ses connaissances du monde professionnel espagnol et latino-américain",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LXLS": {
+    "Titre": "Tandem espagnol"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"THE": "140h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Espagnol"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-tandem avec un étudiant hispanophone présent sur site \n -réalisation de courtes vidéos (10 à 12), suite à chaque rencontre sur des thèmes imposés et au choix pour un tiers de l'UV",
+    "Objectif" : "-approfondir et consolider le vocabulaire et les structures grammaticales \n -apprendre et mettre en pratique le vocabulaire de la vie courante \n -niveau B1 à B2+",
+    "Technologies" : ["espagnol"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LP00": {
+    "Titre": "Portugais - Niveau pré-A1/A1"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Portugais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre quelques phrases simples et des noms familiers, des mots ainsi que des phrases très simples \n -rédiger des mots et phrase très simples \n -utiliser des expressions et des phrases simples pour décrire et parler ",
+    "Objectif" : "-apprendre les bases de la communication orale et écrite \n -communiquer dans des situations simples de la vie courante \n -appréhender la société brésilienne à travers sa langue et sa culture \n -préparer un semestre d'échange au Brésil",
+    "Technologies" : ["portoguais"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LP01": {
+    "Titre": "Portugais - Niveau A1/A2"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Portugais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des mots familiers et des expressions très courantes, si les gens parlent lentement. Peut comprendre des noms familiers, des mots ainsi que des phrases très simples \n -communiquer, de façon simple avec un interlocuteur disposé à répéter ou à reformuler ses phrases plus lentement et poser et répondre à des questions simples sur des sujets familiers \n -utiliser des expressions et des phrases simples pour décrire et parler de choses connues \n -rédiger des notes et messages simples et courts",
+    "Objectif" : "-maîtriser les bases de la communication orale et écrite \n -communiquer dans des situations simples de la vie courante \n -améliorer la communication afin d'envisager des études ou un stage au Brésil",
+    "Technologies" : ["portoguais"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"LXLP": {
+    "Titre": "Tandem portugais"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"THE": "140h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Portugais"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre des expressions et un vocabulaire très fréquent et saisir l'essentiel d'annonces et de messages simples et clairs \n -trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus etc, comprendre des textes journalistiques et littéraires, des lettres personnelles courtes et simples \n -communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers et avoir des échanges très brefs même si, en règle générale, cela reste insuffisant pour poursuivre une conversation. \n -écrire des notes et messages simples et courts : une lettre personnelle très simple, par exemple une lettre ou un e-mail",
+    "Objectif" : "-réviser les structures de langue \n -savoir communiquer dans de multiples situations de la vie courante \n -appréhender le langage spécifique journalistique d'entreprise \n -approfondir sa connaissance de la société brésilienne ",
+    "Technologies" : ["portoguais"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+"KO00": {
+    "Titre": "Coréen - niveau pre-A1/A1"
+    "Type": "EC",
+    "Credits": 4,
+    "Repartition": {"TD": "42h","THE": "60h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["coréen"],
+    "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
+    "Filiere": [],
+    "Programme": "-comprendre quelques phrases simples \n -connaître l'alphabet Hanguel \n -rédiger des mots et phrases très simples \n -utiliser des expressions et des phrases simples pour décrire et parler ",
+    "Objectif" : "-apprendre les bases de la communication orale et écrite \n -communiquer dans des situations simples de la vie courante \n -appréhender la société coréenne à travers sa langue et sa culture \n -préparer un semestre d'échange en Corée ",
+    "Technologies" : ["coréen"], 
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+
+
