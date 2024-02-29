@@ -1,5 +1,3 @@
-ISI :
-
 "GL02": {
     "Titre": "Fondements de l'ingénieurie logicielle",
     "Type": "CS",
@@ -613,7 +611,6 @@ ISI :
     "OuvertTC" : false
 },
 
-MTE : 
 
 "MA02": {
     "Titre": "Structures et propriétés physiques de la matière",
@@ -1592,17 +1589,6 @@ A2I :
     "OuvertTC": false
 },
 
-
-
-
-
-
-TC :
-
--Ajouter des UE du TC ici 
-
-
-RT :
 "IF01": {
     "Titre": "Théorie et codage de l'information",
     "Type": "CS",
@@ -2068,7 +2054,6 @@ RT :
     "OuvertTC": false
 },
 
-SN:
 "IA01": {
     "Titre": "Introduction à l'intelligence artificielle",
     "Type": "CS",
@@ -2166,7 +2151,6 @@ SN:
     "OuvertTC": false
 },
 
-GI:
 "FQ03": {
     "Titre": "Plans d'expériences",
     "Type": "CS",
@@ -2872,8 +2856,6 @@ GI:
     "OuvertTC" : false
 },
 
-ST:
-
 "APPTC": {
     "Titre": "Accompagnement au projet personnel de formation"
     "Type": "ST",
@@ -3002,8 +2984,6 @@ ST:
     "Métiers" : [],
     "OuvertTC" : false
 },
-
-EC:
 
 "LC00": {
     "Titre": "Chinois niveau pré-A1/A1 "
@@ -4104,7 +4084,6 @@ ME :
     "OuvertTC": true
 },
 
-HT: 
 "EV01": {
     "Titre": "Bases scientifiques de l'environnement",
     "Type": "HT",
