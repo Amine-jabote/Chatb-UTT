@@ -1598,9 +1598,236 @@ A2I :
 
 
 TC :
+"MT01": {
+    "Titre": "Analyse 1",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "6h", "THE" : "90h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-logique et raisonnement \n-suites numériques \n -applications, fonction d'une variable réelle : limites et continuité \n-fonctions d'une variable réelle : dérivabilité \n-fonctions réciproques \n-intégrale simple",
+    "Objectif" : "-connaître les concepts liés aux fonctions d'une variable réelle et développer le raisonnement scientifique",
+    "Technologies" : [],
+    "Modalite" : ["median","final", "TP"],
+    "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles","ingénieur de génie mécanique","ingénieur matériau","ingénieur réseau","ingénieur génie industriel"],
+    "OuvertTC" : true
+},
 
--Ajouter des UE du TC ici 
+"MT02": {
+    "Titre": "Algèbre1 et compléments d'analyse",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "0h", "THE" : "96h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-systèmes linéaires
+    -trigonométrie et complexes
+    -polynômes
+    -séries numériques
+    -développements limités
+    -courbes paramétrées",
+    "Objectif" : "-connaître différents concepts de base en algèbre et analyse, et développer le raisonnement scientifique",
+    "Technologies" : [],
+    "Modalite" : ["median","final"],
+    "Métiers" : ["Ingénieur logiciel", "Développeur logiciel", "Analyste en assurance qualité logicielle", "Chef de projet informatique", "Architecte logiciel", "Consultant en ingénierie logicielle", "Ingénieur en sécurité informatique", "Ingénieur en génie logiciel embarqué", "Développeur web full-stack", "Expert en méthodes agiles","ingénieur de génie mécanique","ingénieur matériau","ingénieur réseau","ingénieur génie industriel"],
+    "OuvertTC" : true
+},
 
+"CM10": {
+    "Titre": "Physico-chimie appliquée à l'ingénierie",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "18h", "THE" : "76h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-comprendre et acquérir les connaissances, les concepts et modèles de base en physico­chimie
+    -être capable de décrire et de prévoir la réactivité d'un système chimique qualitativement et quantitativement dans des contextes variés
+    -choisir et mettre en œuvre des méthodes d'analyse chimique et de caractérisation pertinentes de produits
+    d'usages courants
+    -apprendre à respecter les règles d'hygiène et de sécurité en laboratoire",
+    "Objectif" : "apprendre à décrire un système physicochimique, de prévoir et modéliser son évolution, et de quantifier la matière produite dans des contextes variés comme l'alimentation, l'utilisation de produits d'usages courants ou dans des processus industriels.",
+    "Technologies" : [],
+    "Modalite" : ["median","final"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+"NF04": {
+    "Titre": "Algorithmique",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "12h", "THE" : "82h" ,"PRJ" : "6h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-formaliser un problème et rédiger les spécifications associées
+    -connaître les structures de contrôle
+    -connaitre les structures de données statiques et dynamiques
+    -maitriser l'approche descendante pour la résolution de problèmes
+    -avoir des notions sur l'évaluation des performances d'une solution
+    -traduire un algorithme simple en programme (découverte de deux langages:C et Visual Basic)",
+    "Objectif" : "étudier la formalisation de problèmes, des démarches de résolution, des solutions typiques et d'en caractériser les propriétés",
+    "Technologies" : ["C","Python"],
+    "Modalite" : ["median","final","projet"],
+    "Métiers" : ["ingénieur génie informatique","data scientist","developpeur logiciel"],
+    "OuvertTC" : true
+},
+
+"PC12": {
+    "Titre": "Physico-chimie de la matière",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "18h", "THE" : "76h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-comprendre et acquérir les connaissances, les concepts et modèles de base en atomistique
+    -être capable de décrire la structure électronique d'un atome ou d'une molécule
+    -être capable de prévoir la géométrie d'une molécule
+    -être capable de comprendre des caractéristiques microscopiques et macroscopiques à partir de la structure atomique",
+    "objectifs": "donner des bases en physique de la matière afin de faire le lien entre structure atomique et propriétés physico-chimiques",
+    "Technologies" : [],
+    "Modalite" : ["median","final","projet"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+"PHYS11": {
+    "Titre": "Physique pour l’ingénieur : mécanique du point",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "12h", "THE" : "82h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-repérer un objet dans l'espace
+    -modéliser un mouvement
+    -connaitre la cause d'un mouvement
+    -comprendre les notions d'énergie potentielle et cinétique et en décrire les effets
+    -appréhender la notion de mouvement autour du centre de masse (introduction à la mécanique des milieux
+    indéformables)
+    -analyser les différents systèmes vibratoires et les reconnaitre",
+    "objectifs": "-introduire la mécanique du point par des exemples pris dans la vie de tous les jours
+    -susciter la curiosité de l'étudiants autour des phénomènes observés
+    -donner les bases du raisonnement scientifique en s'appuyant sur la mécanique
+    -apprendre à modéliser des mouvements simple en utilisant les mathématiques",
+    "Technologies" : [],
+    "Modalite" : ["median","final","projet"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+"LOG01": {
+    "Titre": "Logistique : activité, interactions et enjeux",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "20h", "TD" : "28h", "TP" : "28h", "THE" : "74h" ,"PRJ" : "50h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-identifier les niveaux de décisions (stratégique, tactique, opérationnelle et en temps réel)
+    -connaître les problèmes principaux et acteurs rencontrés dans la gestion de la chaîne logistique
+    -comprendre le traitement de l'information tout au long de la chaîne logistique
+    -apprécier les enjeux liés aux activités de production, transport et sûreté de fonctionnement
+    -savoir proposer des solutions aux problèmes liés à la gestion de la chaîne logistique et les évaluer selon un ou plusieurs critères de performance
+    -mettre en œuvre la gestion de projet (planifier, jalonner, répondre à des échéances) et travailler en équipe",
+    "objectifs": "Connaître les problématiques et enjeux liés à la conception et la gestion d'une chaîne logistique.
+    Identifier les interactions entre les emplois types des spécialités d'ingénierie et la gestion de la chaîne logistique.",
+    "Technologies" : [],
+    "Modalite" : ["median","final","projet"],
+    "Métiers" : ["ingénieur génie industriel"],
+    "OuvertTC" : true
+},
+
+"MM01": {
+    "Titre": "Multimédia, du projet à la réalisation",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "4h", "TD" : "24h", "TP" : "24h", "THE" : "98h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-réaliser et conduire un projet multimédia orienté web
+    -savoir planifier et respecter les phases essentielles de la gestion de projet
+    -être capable d'intégrer les contraintes techniques associées à un projet web
+    -connaître les aspects juridiques liés aux sources et à l'activité de publication",
+    "Objectif" : "Créer un site internet demande de maîtriser des aspects à la fois relatifs à l'organisation d'un projet, à la conception graphique, à la navigation interactive en utilisant les standards actuels du monde de l'internet (HTML, CSS, JavaScript).",
+    "Technologies" : ["HTML","css","javascript"],
+    "Modalite" : ["median","final","projet"],
+    "Métiers" : ["ingénieur génie informatique","data scientist","developpeur logiciel"],
+    "OuvertTC" : true
+},
+
+"TN04": {
+    "Titre": "Gestion et réalisation d'un projet d’ingénierie : initiation",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "4h", "TD" : "42h", "TP" : "0h", "THE" : "104h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-définir de manière précise un objet ou système multi-technique en prenant en compte les contraintes d'un atelier et les compétences techniques que l'on est capable d'acquérir et de mettre en œuvre
+    -gérer les coûts et contacts avec différents fournisseurs pour les achats de certains composants
+    -planifier et réaliser l'objet ou le système en intégrant les contraintes de qualité, de temps, d'ordre de fabrication, de sécurité pour soi et les autres, d'utilisation machine...
+    -gérer la livraison d'un projet de qualité dans les délais imposés",
+    "Objectif" : "En atelier, la conception et la réalisation d'un objet personnel ou imposé en bois et/ou en métal nécessite rigueur et organisation. Les contraintes de résultat, de temps, de coût, d'environnement de travail, etc. doivent être prises en compte.",
+    "Technologies" : ["Creo"],
+    "Modalite" : ["projet"],
+    "Métiers" : [],
+    "OuvertTC" : true
+},
+
+"TNEV": {
+    "Titre": "Gestion et réalisation d’un projet mécatronique : initiation",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "2h", "TD" : "42h", "TP" : "3h", "THE" : "103h" ,"PRJ" : "130h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "Développer des compétences sur :
+    -la gestion de projet en montrant sa capacité à planifier, jalonner, répondre à des échéance
+    -le travail en équipe en montrant sa capacité à se répartir les tâches, se coordonner, intégrer les travaux réalisés, communiquer
+    -la réalisation d'un système mécatronique en montrant sa capacité à identifier, utiliser des technologies mécaniques, électroniques et informatiques pour atteindre des objectifs fixés d'une part et sa capacité à mettre en oeuvre des moyens techniques de transformation de matière sous contraintes de sécurité, propreté,... d'autre part",
+    "Objectif" : "Gestion et réalisation d'un projet mécatronique : initiation",
+    "Technologies" : ["Creo","Arduino"],
+    "Modalite" : ["projet"],
+    "Métiers" : ["ingénieur informatique","ingénieur mécatronique"],
+    "OuvertTC" : true
+},
+
+"MS11": {
+    "Titre": "Mesure physique et instrumentation",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "2h", "TD" : "42h", "TP" : "3h", "THE" : "103h" ,"PRJ" : "130h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "Développer des compétences sur :
+    -la gestion de projet en montrant sa capacité à planifier, jalonner, répondre à des échéance
+    -le travail en équipe en montrant sa capacité à se répartir les tâches, se coordonner, intégrer les travaux réalisés, communiquer
+    -la réalisation d'un système mécatronique en montrant sa capacité à identifier, utiliser des technologies mécaniques, électroniques et informatiques pour atteindre des objectifs fixés d'une part et sa capacité à mettre en oeuvre des moyens techniques de transformation de matière sous contraintes de sécurité, propreté,... d'autre part",
+    "Objectif" : "Gestion et réalisation d'un projet mécatronique : initiation",
+    "Technologies" : ["Creo","Arduino"],
+    "Modalite" : ["projet"],
+    "Métiers" : ["ingénieur informatique","ingénieur mécatronique"],
+    "OuvertTC" : true
+},
 
 RT :
 "IF01": {
