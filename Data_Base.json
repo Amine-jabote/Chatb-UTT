@@ -1,4 +1,5 @@
-"GL02": {
+{
+    "GL02": {
     "Titre": "Fondements de l'ingénieurie logicielle",
     "Type": "CS",
     "Credits": 6,
@@ -4441,4 +4442,5 @@ ME :
     "Modalite": ["Non renseigné"],
     "Métiers": [],
     "OuvertTC": true
-}, 
+}
+}
