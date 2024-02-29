@@ -265,7 +265,7 @@
     "Branche" : ["ISI", "SN", "RT"],
     "Filiere": ["TCBR"],
     "Programme": "connaître et maîtriser les différentes technologies de virtualisation au niveau système : micro-processeur, mémoire vive, stockage et réseau \n comprendre le rôle et le fonctionnement des différents composants d'une architecture Cloud ainsi que leurs interfaces \n savoir mettre en œuvre différents types de services dans une architecture de cloud public ou privé et en maitriser l'usage \n comprendre les enjeux liés à la sécurité et maîtriser les briques technologiques associées \n comprendre les enjeux liés à l'empreinte écologique des architectures Cloud",
-    "Objectif" : "	Comprendre et maîtriser le fonctionnement des architectures Cloud en vue de leur mise en œuvre et leur utilisation.",
+    "Objectif" : "Comprendre et maîtriser le fonctionnement des architectures Cloud en vue de leur mise en œuvre et leur utilisation.",
     "Technologies" : ["Virtualisation", "Cloud", "Docker", "Azure", "AWS","Kubernetes"],
     "Modalite" : ["final", "TP"],
     "Métiers" : ["Architecte Cloud", "Ingénieur DevOps", "Administrateur système Cloud", "Spécialiste en virtualisation", "Ingénieur en sécurité Cloud", "Architecte réseau Cloud", "Administrateur de bases de données Cloud", "Ingénieur Cloud computing", "Consultant en architecture Cloud", "Responsable de l'optimisation énergétique des architectures Cloud"],
@@ -747,7 +747,7 @@
     "Branche" : ["MTE"],
     "Filiere": ["TCBR"],
     "Programme": "connaître les méthodes d'analyse numérique de base (recherche de 0, interpolation polynomiale, régression, intégration, résolution d'équations différentielles, différences finies, transformée de Fourier) \n identifier les grandeurs jouant un rôle clé dans un phénomène physique \n s'interroger sur la vraisemblance d'un résultat et être capable de quantifier l'erreur commise lors des calculs numériques",
-    "Objectif" : "	En ingénierie, on est souvent confronté à des problèmes dont la résolution analytique s'avère très compliquée, voire impossible. La simulation numérique devient alors un outil puissant qui permet de mieux comprendre la nature des phénomènes étudiés.",
+    "Objectif" : "En ingénierie, on est souvent confronté à des problèmes dont la résolution analytique s'avère très compliquée, voire impossible. La simulation numérique devient alors un outil puissant qui permet de mieux comprendre la nature des phénomènes étudiés.",
     "Technologies" : ["Analyse numérique", "Python", "Matlab"], 
     "Modalite" : ["médian", "final", "TP"],
     "Métiers" : ["Ingénieur en analyse numérique", "Chercheur en analyse numérique", "Expert en analyse numérique", "Responsable de projet analyse numérique"],
@@ -816,7 +816,7 @@
     "Branche" : ["MTE"],
     "Filiere": ["TCBR"],
     "Programme": "comprendre et décrire le fonctionnement et les propriétés des semi-conducteurs et des autres matériaux utilisés dans les technologies électroniques et avancées (magnétisme, supraconductivité, photovoltaïsme) \n- comprendre les phénomènes et les principes de fonctionnement des composants à semi-conducteurs et les problématiques liées aux matériaux les constituant \n- échanger, extraire et traiter des informations techniques relatives à la mise en oeuvre de ces matériaux et des procédés associés, avec des spécialistes ou à partir de documents techniques",
-    "Objectif" : "	L'électronique et les technologies avancées utilisent des propriétés originales des semi-conducteurs et de certains matériaux qui permettent des fonctions très sophistiquées, à l'utilisation croissante.",
+    "Objectif" : "L'électronique et les technologies avancées utilisent des propriétés originales des semi-conducteurs et de certains matériaux qui permettent des fonctions très sophistiquées, à l'utilisation croissante.",
     "Technologies" : ["Semi-conducteurs", "Magnétisme", "Supraconductivité", "Photovoltaïsme"],
     "Modalite" : ["TP", "final", "DM", "projet"],
     "Métiers" : ["Ingénieur en semi-conducteurs", "Chercheur en semi-conducteurs", "Expert en semi-conducteurs", "Responsable de projet semi-conducteurs"],
@@ -867,7 +867,7 @@
     "Branche" : ["MTE"],
     "Filiere": ["TCBR"],
     "Programme": "identifier, connaître et comparer les procédés d'élaboration de mise en forme de différents matériaux (métalliques, polymères, céramiques, agro-matériaux, bois, composites...) \n- identifier, connaître et comparer les procédés de fabrication avancés (usinage grande vitesse, fabrication additive...) \n- identifier, connaître et comparer les procédés modifiant la surface afin d'optimiser certaines propriétés (traitements thermochimiques, traitements mécaniques de surface...)",
-    "Objectif" : "	Appréhender différents procédés industriels permettant le façonnage de différents matériaux.",
+    "Objectif" : "Appréhender différents procédés industriels permettant le façonnage de différents matériaux.",
     "Technologies" : ["Procédés d'élaboration", "Procédés de fabrication avancés", "Procédés modifiant la surface"],
     "Modalite" : ["Non renseignée"],
     "Métiers" : ["Ingénieur en mise en forme des matériaux", "Chercheur en mise en forme des matériaux", "Expert en mise en forme des matériaux", "Responsable de projet mise en forme des matériaux"],
@@ -1275,7 +1275,7 @@
     "Langue": ["Francais"],
     "Branche": ["A2I"],
     "Filiere": ["TCBR"],
-    "Programme": "-modélisation d'un système sous forme de représentation d'état \n espace -critères de stabilité \n espace -propriétés de commandabilité et d'observabilité \n espace -commande par retour d'état et par retour de sortie \n espace -synthèse d'observateurs \n espace -simulations et tests "hardware-in-the-loop" des algorithmes de contrôle/commande sous Simulink et Stateflow \n espace -initiation aux systèmes non linéaires",
+    "Programme": "-modélisation d'un système sous forme de représentation d'état \n espace -critères de stabilité \n espace -propriétés de commandabilité et d'observabilité \n espace -commande par retour d'état et par retour de sortie \n espace -synthèse d'observateurs \n espace -simulations et tests hardware-in-the-loop des algorithmes de contrôle/commande sous Simulink et Stateflow \n espace -initiation aux systèmes non linéaires",
     "Objectif": "-maîtriser les aspects liés à l'analyse, à l'observation et à la commande des systèmes dynamiques multi-variables tels que les systèmes de transports et les systèmes de production \n espace -manipuler les outils récents de mise en œuvre des techniques d'observation et de commande",
     "Technologies": ["Simulink", "Stateflow"],
     "Modalite": ["median", "TP"],
@@ -1605,6 +1605,7 @@
     "métiers": ["Ingénieur en télécommunications", "Ingénieur en traitement du signal", "Développeur en compression de données","Ingénieur en sécurité des communications","Chercheur en intelligence artificielle et apprentissage automatique","Consultant en analyse de données"],
     "OuvertTC": false
 },
+
 "NF16": {
     "Titre": "Concevoir et manipuler des bases de données",
     "Type": "CS",
@@ -2664,8 +2665,8 @@
     "OuvertTC" : false
 },
 "SY20": {
-    "Titre": "Intelligence Industrielle (Outils logiciels MES/SAP)"
-    "Type": "TM",
+    "Titre": "Intelligence Industrielle (Outils logiciels MES/SAP)",
+    "Type" : "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","TP": "24h","THE" : "70h","PRJ": "50h"},
     "Disponibilité": ["Printemps"],
@@ -2680,7 +2681,7 @@
     "OuvertTC" : false
 },
 "SY20P": {
-    "Titre": "Intelligence Industrielle (Outils logiciels MES/SAP)"
+    "Titre": "Intelligence Industrielle (Outils logiciels MES/SAP)",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","TP": "22h","THE" : "72h"},
@@ -2696,7 +2697,7 @@
     "OuvertTC" : false
 },
 "SY40": {
-    "Titre": "Industrie 4.0 : transition industrielle et optimisation de la gestion en temps réel"
+    "Titre": "Industrie 4.0 : transition industrielle et optimisation de la gestion en temps réel",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","TP": "12h","THE" : "82h","PRJ": "30h"},
@@ -2712,7 +2713,7 @@
     "OuvertTC" : false
 },
 "SY40P": {
-    "Titre": "Industrie 4.0 : transition industrielle et optimisation de la gestion en temps réel"
+    "Titre": "Industrie 4.0 : transition industrielle et optimisation de la gestion en temps réel",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","TP": "10h","THE" : "84h"},
@@ -2728,7 +2729,7 @@
     "OuvertTC" : false
 },
 "RM02": {
-    "Titre": "Analyse des données de retour d'expérience"
+    "Titre": "Analyse des données de retour d'expérience",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","THE" : "94h","PRJ": "45h"},
@@ -2744,7 +2745,7 @@
     "OuvertTC" : false
 },
 "RM02P": {
-    "Titre": "Analyse des données de retour d'expérience"
+    "Titre": "Analyse des données de retour d'expérience",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","THE" : "72h"},
@@ -2760,7 +2761,7 @@
     "OuvertTC" : false
 },
 "RM03": {
-    "Titre": "Surveillance et pronostic - outils PHM"
+    "Titre": "Surveillance et pronostic - outils PHM",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","TP": "12h","THE" : "86h","PRJ": "40h"},
@@ -2776,7 +2777,7 @@
     "OuvertTC" : false
 },
 "RM03P": {
-    "Titre": "Surveillance et pronostic - outils PHM"
+    "Titre": "Surveillance et pronostic - outils PHM",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "28h","TP": "12h","THE" : "86h"},
@@ -2792,7 +2793,7 @@
     "OuvertTC" : false
 },
 "RM04": {
-    "Titre": "Maintenance intelligente"
+    "Titre": "Maintenance intelligente",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "24h","TP": "12h","THE" : "86h","PRJ": "40h"},
@@ -2808,7 +2809,7 @@
     "OuvertTC" : false
 },
 "RM04P": {
-    "Titre": "Maintenance intelligente"
+    "Titre": "Maintenance intelligente",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "28h","TD" : "24h","TP": "12h","THE" : "86h","PRJ": "40h"},
@@ -2824,7 +2825,7 @@
     "OuvertTC" : false
 },
 "TS01": {
-    "Titre": "Sécurité des systèmes"
+    "Titre": "Sécurité des systèmes",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "56h","TD" : "12h","THE" : "82h","PRJ": "30h"},
@@ -2840,7 +2841,7 @@
     "OuvertTC" : false
 },
 "TS02": {
-    "Titre": "Gestion des risques industriels"
+    "Titre": "Gestion des risques industriels",
     "Type": "TM",
     "Credits": 6,
     "Repartition": {"C" : "60h","THE" : "90h","PRJ": "50h"},
@@ -2857,7 +2858,7 @@
 },
 
 "APPTC": {
-    "Titre": "Accompagnement au projet personnel de formation"
+    "Titre": "Accompagnement au projet personnel de formation",
     "Type": "ST",
     "Credits": 1,
     "Repartition": {"C" : "6h","TD" : "6h","THE": "25h"},
@@ -2873,7 +2874,7 @@
     "OuvertTC" : true
 },
 "ST05": {
-    "Titre": "Stage technique"
+    "Titre": "Stage technique",
     "Type": "ST",
     "Credits": 6,
     "Repartition": {"STG": "4 semaines"},
@@ -2889,7 +2890,7 @@
     "OuvertTC" : true
 },
 "ST09": {
-    "Titre": "Stage professionnel"
+    "Titre": "Stage professionnel",
     "Type": "ST",
     "Credits": 30,
     "Repartition": {"STG": "24 semaines"},
@@ -2905,7 +2906,7 @@
     "OuvertTC" : false
 },
 "ST10": {
-    "Titre": "Projet de fin d'étude"
+    "Titre": "Projet de fin d'étude",
     "Type": "ST",
     "Credits": 30,
     "Repartition": {"STG": "24 semaines"},
@@ -2921,7 +2922,7 @@
     "OuvertTC" : false
 },
 "ST40": {
-    "Titre": "Projet en laboratoire pour un étudiant d'échange"
+    "Titre": "Projet en laboratoire pour un étudiant d'échange",
     "Type": "ST",
     "Credits": 30,
     "Repartition": {"STG": "24 semaines"},
@@ -2937,7 +2938,7 @@
     "OuvertTC" : false
 },
 "ST51": {
-    "Titre": "Projet de fin d'études en alternance Partie 1"
+    "Titre": "Projet de fin d'études en alternance Partie 1",
     "Type": "ST",
     "Credits": 18,
     "Repartition": {"STG": "24 semaines"},
@@ -2953,7 +2954,7 @@
     "OuvertTC" : false
 },
 "ST52": {
-    "Titre": "Projet de fin d'études en alternance Partie 2"
+    "Titre": "Projet de fin d'études en alternance Partie 2",
     "Type": "ST",
     "Credits": 12,
     "Repartition": {"STG": "24 semaines"},
@@ -2969,7 +2970,7 @@
     "OuvertTC" : false
 },
 "TN07": {
-    "Titre": "Séjour culturel et linguistique à l'étranger"
+    "Titre": "Séjour culturel et linguistique à l'étranger",
     "Type": "ST",
     "Credits": 4,
     "Repartition": {"STG": "24 semaines"},
@@ -2986,7 +2987,7 @@
 },
 
 "LC00": {
-    "Titre": "Chinois niveau pré-A1/A1 "
+    "Titre": "Chinois niveau pré-A1/A1 ",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3002,7 +3003,7 @@
     "OuvertTC" : true
 },
 "LC01": {
-    "Titre": "Chinois niveau A1/A2"
+    "Titre": "Chinois niveau A1/A2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3018,7 +3019,7 @@
     "OuvertTC" : true
 },
 "LC02": {
-    "Titre": "Chinois niveau A2/B1"
+    "Titre": "Chinois niveau A2/B1",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3034,7 +3035,7 @@
     "OuvertTC" : true
 },
 "LXLC": {
-    "Titre": "Tandem chinois"
+    "Titre": "Tandem chinois",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"THE": "140h"},
@@ -3050,7 +3051,7 @@
     "OuvertTC" : true
 },
 "LE00": {
-    "Titre": "Anglais - Remise à niveau A2"
+    "Titre": "Anglais - Remise à niveau A2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3066,7 +3067,7 @@
     "OuvertTC" : true
 },
 "LE01": {
-    "Titre": "Anglais - niveau pratique B1"
+    "Titre": "Anglais - niveau pratique B1",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3082,7 +3083,7 @@
     "OuvertTC" : true
 },
 "LE02": {
-    "Titre": "Anglais - Niveau pratique B1/B2"
+    "Titre": "Anglais - Niveau pratique B1/B2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3098,7 +3099,7 @@
     "OuvertTC" : true
 },
 "LE03": {
-    "Titre": "Anglais - Niveau pratique B2"
+    "Titre": "Anglais - Niveau pratique B2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3114,7 +3115,7 @@
     "OuvertTC" : true
 },
 "LE08": {
-    "Titre": "Professional english, Linguaskill reading and listening and speaking test preparation (C1)"
+    "Titre": "Professional english, Linguaskill reading and listening and speaking test preparation (C1)",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3130,7 +3131,7 @@
     "OuvertTC" : true
 },
 "LE11": {
-    "Titre": "Anglais pratique dans les domaines scientifiques et techniques"
+    "Titre": "Anglais pratique dans les domaines scientifiques et techniques",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3146,7 +3147,7 @@
     "OuvertTC" : true
 },
 "LE17": {
-    "Titre": "English for Academic Purposes, IELTS and TOEFL preparation"
+    "Titre": "English for Academic Purposes, IELTS and TOEFL preparation",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3154,7 +3155,7 @@
     "Langue" : ["Anglais"],
     "Branche" : ["TC","GI","GM","SN","ISI","A2I","MM","RT"],
     "Filiere": [],
-    "Programme": "-comprendre tout document académique sauf les documents les plus spécialisés \n -être capable de s'exprimer d'une manière persuasive face à un locuteur natif et d'une manière efficace et soutenue lors de présentations de divers sujets académiques \n -rédiger des "essays" et "intergrated tasks" sur la plupart des sujets et écrire sous la dictée d'un maître de conférence, même sur des sujets inconnus",
+    "Programme": "-comprendre tout document académique sauf les documents les plus spécialisés \n -être capable de s'exprimer d'une manière persuasive face à un locuteur natif et d'une manière efficace et soutenue lors de présentations de divers sujets académiques \n -rédiger des essays et intergrated tasks sur la plupart des sujets et écrire sous la dictée d'un maître de conférence, même sur des sujets inconnus",
     "Objectif" : "-préparation aux niveaux C1/C2 dans l'optique d'un semestre d'étude dans un pays anglophone \n -réussite du TOEFL 90+ et IELTS 6.5+",
     "Technologies" : ["anglais"], 
     "Modalite" : ["median","final"],
@@ -3162,7 +3163,7 @@
     "OuvertTC" : true
 },
 "LE19": {
-    "Titre": "Conversation, Argumentation and Pronunciation"
+    "Titre": "Conversation, Argumentation and Pronunciation",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "28h","THE": "40h","PRJ": "20h"},
@@ -3178,7 +3179,7 @@
     "OuvertTC" : true
 },
 "LE20": {
-    "Titre": "Professionalization and Cross Cultural studies"
+    "Titre": "Professionalization and Cross Cultural studies",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "28h","THE": "40h","PRJ": "20h"},
@@ -3194,7 +3195,7 @@
     "OuvertTC" : true
 },
 "LE21P": {
-    "Titre": "Maîtriser l'anglais sur une thématique métier"
+    "Titre": "Maîtriser l'anglais sur une thématique métier",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "38h"},
@@ -3210,7 +3211,7 @@
     "OuvertTC" : true
 },
 "LESI": {
-    "Titre": "Remédiation des fondamentaux B1-B2"
+    "Titre": "Remédiation des fondamentaux B1-B2",
     "Type": "EC",
     "Credits": 2,
     "Repartition": {"TD": "38h"},
@@ -3226,7 +3227,7 @@
     "OuvertTC" : true
 },
 "LX10": {
-    "Titre": "Formation à l'anglais à distance (préparation BULATS durant le stage de fin d'études)"
+    "Titre": "Formation à l'anglais à distance (préparation BULATS durant le stage de fin d'études)",
     "Type": "EC",
     "Credits": 2,
     "Repartition": {"THE": "40h"},
@@ -3243,7 +3244,7 @@
 },
 
 "LS00": {
-    "Titre": "Espagnol - Niveau débutant A1/A2"
+    "Titre": "Espagnol - Niveau débutant A1/A2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3259,7 +3260,7 @@
     "OuvertTC" : true
 },
 "LS01": {
-    "Titre": "Espagnol - Niveau intermédiaire A2"
+    "Titre": "Espagnol - Niveau intermédiaire A2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3275,7 +3276,7 @@
     "OuvertTC" : true
 },
 "LS02": {
-    "Titre": "Espagnol - Niveau pratique B1"
+    "Titre": "Espagnol - Niveau pratique B1",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3291,7 +3292,7 @@
     "OuvertTC" : true
 },
 "LS03": {
-    "Titre": "Espagnol - Niveau pratique B1/B2"
+    "Titre": "Espagnol - Niveau pratique B1/B2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3307,7 +3308,7 @@
     "OuvertTC" : true
 },
 "LS08": {
-    "Titre": "Espagnol - Niveau avancé B2 à C1"
+    "Titre": "Espagnol - Niveau avancé B2 à C1",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3323,7 +3324,7 @@
     "OuvertTC" : true
 },
 "LS10": {
-    "Titre": "Espagnol - Niveau pratique B2"
+    "Titre": "Espagnol - Niveau pratique B2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3339,7 +3340,7 @@
     "OuvertTC" : true
 },
 "LS11": {
-    "Titre": "Espagnol - Niveau pratique B2+/C1 (Post LS08)"
+    "Titre": "Espagnol - Niveau pratique B2+/C1 (Post LS08)",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3355,7 +3356,7 @@
     "OuvertTC" : true
 },
 "LXLS": {
-    "Titre": "Tandem espagnol"
+    "Titre": "Tandem espagnol",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"THE": "140h"},
@@ -3371,7 +3372,7 @@
     "OuvertTC" : true
 },
 "LP00": {
-    "Titre": "Portugais - Niveau pré-A1/A1"
+    "Titre": "Portugais - Niveau pré-A1/A1",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3387,7 +3388,7 @@
     "OuvertTC" : true
 },
 "LP01": {
-    "Titre": "Portugais - Niveau A1/A2"
+    "Titre": "Portugais - Niveau A1/A2",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3403,7 +3404,7 @@
     "OuvertTC" : true
 },
 "LXLP": {
-    "Titre": "Tandem portugais"
+    "Titre": "Tandem portugais",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"THE": "140h"},
@@ -3419,7 +3420,7 @@
     "OuvertTC" : true
 },
 "KO00": {
-    "Titre": "Coréen - niveau pre-A1/A1"
+    "Titre": "Coréen - niveau pre-A1/A1",
     "Type": "EC",
     "Credits": 4,
     "Repartition": {"TD": "42h","THE": "60h"},
@@ -3689,8 +3690,6 @@
     "OuvertTC": true
 },
 
-
-ME :
 
 "AP1A": {
     "Titre": "Définir et mettre en oeuvre son projet professionnel",
