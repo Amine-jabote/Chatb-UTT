@@ -1810,23 +1810,485 @@ TC :
 },
 
 "MS11": {
-    "Titre": "Mesure physique et instrumentation",
+    "Titre": "MS11 - Mesure physique et instrumentation",
     "Type": "CS",
     "Credits": 6,
-    "Repartition": {"C" : "2h", "TD" : "42h", "TP" : "3h", "THE" : "103h" ,"PRJ" : "130h"},
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "15h", "THE" : "79h" ,"PRJ" : "0h"},
+    "Disponibilite": ["Automne", "Printemps"],
+    "Langue" : ["Français"],
+    "Programme": "comprendre les notions de dimensions, unités, unités dérivées pour une grandeur mesurable\nsavoir établir l'incertitude liée au type de mesure\nbonne compréhension des différences entre mesure directe et indirecte\nêtre capable de présenter un résultat de mesure suivant une norme\nappréhender :\n. la notion de corrélation entre grandeurs mesurées\n. l'analyse statistique sur des mesures et notion de tests d'hypothèses\n. la notion de signal périodique et analyse de Fourier\n. des techniques de mesures et choix des appareils",
+    "Objectif" : [
+      "acquérir un savoir-faire pratique de base, concernant les techniques de mesure utilisées dans les laboratoires et l'industrie (physique, mécanique, chimie, biologie)",
+      "savoir interpréter les mesures, tirer le maximum d'informations du signal mesuré, choisir l'appareil adapté à une mesure spécifique et présenter les résultats suivant les normes"
+    ],
+    "Commentaire": "Maîtrise du français : * niveau B2",
+    "Technologies" : [],
+    "Modalite" : [],
+    "Metiers" : [
+      "Ingénieur en instrumentation",
+      "Ingénieur en métrologie",
+      "Ingénieur en contrôle qualité",
+      "Ingénieur en recherche et développement",
+      "Ingénieur en analyse de données",
+      "Ingénieur en traitement du signal"
+    ],
+    "OuvertTC" : true
+  },
+
+  "PIX": {
+    "Titre": "Compétences numériques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "4h", "TD" : "42h", "TP" : "0h", "THE" : "104h" ,"PRJ" : "0h"},
     "Disponibilité": ["Automne","Printemps"],
     "Langue" : ["Français"],
     "Branche" : ["TC"],
     "Filiere": ["TC"],
-    "Programme": "Développer des compétences sur :
-    -la gestion de projet en montrant sa capacité à planifier, jalonner, répondre à des échéance
-    -le travail en équipe en montrant sa capacité à se répartir les tâches, se coordonner, intégrer les travaux réalisés, communiquer
-    -la réalisation d'un système mécatronique en montrant sa capacité à identifier, utiliser des technologies mécaniques, électroniques et informatiques pour atteindre des objectifs fixés d'une part et sa capacité à mettre en oeuvre des moyens techniques de transformation de matière sous contraintes de sécurité, propreté,... d'autre part",
-    "Objectif" : "Gestion et réalisation d'un projet mécatronique : initiation",
-    "Technologies" : ["Creo","Arduino"],
-    "Modalite" : ["projet"],
-    "Métiers" : ["ingénieur informatique","ingénieur mécatronique"],
+    "Programme": "-travailler dans un environnement numérique évolutif
+    -être responsable à l'ère du numérique
+    -produire, traiter, exploiter et diffuser des documents numériques
+    -organiser la recherche d'informations à l'ère du numérique",
+    "Objectif" : "La maîtrise d'Internet et des outils informatiques passe par des compétences indispensables telles que :
+    savoir protéger son environnement numérique, contrôler sa e-réputation, savoir utiliser une suite bureautique, rechercher de l'information.",
+    "Technologies" : [],
+    "Modalite" : ["certification"],
+    "Métiers" : ["ingénieur informatique","ingénieur réseau"],
     "OuvertTC" : true
+},
+
+"TN01": {
+    "Titre": "Gestion et réalisation d'un projet d’ingénierie : initiation",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "21h", "TD" : "22h", "TP" : "32h", "THE" : "69h" ,"PRJ" : "16hh"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-représenter un produit en utilisant les normes de dessin technique
+    -analyser et comprendre un système à travers ses schémas et dessin d'ensemble
+    -utiliser un code C.A.O (Creo) pour définir un composant et un système
+    -connaître les normes de désignation des matériaux et alliages essentiellement métalliques
+    -connaître les fonctions et la désignation de divers composants mécaniques (Ex : Vis, Ecrou, Roulement, Clavette, Circlips, Engrenage)
+    -être initié aux procédés de fabrication avec et sans enlèvement de matière (Ex : Tournage, Fraisage, Moulage, Emboutissage)",
+    "Objectif" : "Lors de la phase de conception d'un système, des maquettes 3D sont utilisées et converties en plan 2D pour leur réalisation en atelier. Le fonctionnement de cette conversion ainsi que son efficacité dépendront du choix des solutions technologiques qui seront prises en compte.",
+    "Technologies" : ["Creo"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"TPC01": {
+    "Titre": "Techniques d'analyses physico-chimiques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "21h", "TD" : "22h", "TP" : "32h", "THE" : "69h" ,"PRJ" : "16hh"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-s'initier à la réalisation d'un projet d'investigation scientifique en groupe
+    -découvrir et savoir utiliser un ensemble de techniques d'analyse connaissant leurs avantages et limites (spectroscopie, chromatographie, DSC...)
+    -être capable de combiner différentes techniques d4analyses et d4interpréter les résultats expérimentaux obtenus pour répondre à une problématique
+    -apprendre à planifier un travail d'investigation sur toute l'étendue du semestre
+    -savoir effectuer des recherches bibliographiques
+    -savoir présenter ses résultats de façon moderne et efficace (vidéos, exposés, posters, etc)",
+    "Objectif" : "Cette UE propose de s'initier à différentes techniques d'analyses afin de pouvoir étudier les propriétés physiques et chimiques de produits du quotidien (lessive, chewing-gum, masque chirurgical, sodas, etc).",
+    "Technologies" : [],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"CM02": {
+    "Titre": "Structure, propriétés et réactivité des matériaux organiques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "24h", "THE" : "70h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-savoir identifier les effets électroniques et comprendre leur influence sur la réactivité des molécules
+    -savoir exprimer la loi cinétique et comprendre le mécanisme électronique d'une réaction
+    -découvrir les principales réactions de synthèse des macromolécules (additions et substitutions)
+    -comprendre la relation entre les propriétés structurales (mésomérie, interactions intermoléculaires, stéréochimie) et physico-chimiques des polymères (thermomécaniques, électriques, énergie de surface)
+    Un projet avec une approche problème sera proposé",
+    "Objectif" : "Les matériaux organiques sont utilisés dans de nombreux secteurs industriels (automobile, aéronautique, construction, textile...). L'objectif est d'aborder les connaissances fondamentales permettant de comprendre leur synthèse, structure et propriétés.",
+    "Technologies" : [],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"CM03": {
+    "Titre": "Structures, propriétés et réactivité des solides métalliques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "24h", "THE" : "70h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-être capable de prévoir la corrosion/protection d'un métal dans un milieu aqueux oxygéné
+    -savoir mesurer et calculer une vitesse de corrosion
+    -savoir mettre en œuvre des stratégies anticorrosion
+    -connaitre les différents dispositifs de stockage d'énergie électrique
+    -être capable de décrire les métaux, oxydes et hydroxydes métalliques sous une approche cristallographie
+    -être capable d'analyser un spectre de diffraction X simple",
+    "Objectif" : "En raison de leurs propriétés redox et mécaniques, les matériaux métalliques sont utilisés dans de nombreux systèmes industriels. Leur étude est actuellement un enjeu majeur (durée de vie des alliages, voitures électriques, informatique portative,...)",
+    "Technologies" : [],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"MT03": {
+    "Titre": "Algèbre 2",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "24h", "THE" : "70h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-espaces vectoriels
+    -applications linéaires, matrices
+    -déterminants
+    -valeurs propres, vecteurs propres, réduction d'endomorphisme
+    -espaces euclidiens",
+    "Objectif" : "Connaître les concepts et les outils liés à l'algèbre linéaire et au calcul matriciel, et développer le raisonnement scientifique.
+    Les éléments étudiés fournissent le socle nécessaire à la formalisation et à la résolution de problèmes variés de l'ingénieur en dimension finie (analyse de données, modélisation numérique,...).)",
+    "Technologies" : ["matlab"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau","ingénieur informatique","data engineer"],
+    "OuvertTC" : true
+},
+
+"MT04": {
+    "Titre": "Analyse 2",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "6h", "THE" : "90h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-fonctions de plusieurs variables : définition et régularité
+    -analyse vectorielle
+    -fonctions de deux variables : représentation et extrema
+    -intégrales doubles et triples
+    -intégrales curvilignes et intégrales de surfaces",
+    "Objectif" : "Connaître les concepts et les outils liés aux fonctions de plusieurs variables réelles, et développer le raisonnement scientifique.
+    Les éléments étudiés fournissent le socle nécessaire à la résolution de divers problèmes rencontrés par
+    l'ingénieur (par exemple, modélisation, représentation multidimensionnelle, optimisation, calcul de grandeurs physiques).",
+    "Technologies" : ["GeoGebra"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau","ingénieur informatique","data engineer"],
+    "OuvertTC" : true
+},
+
+"MT05": {
+    "Titre": "Analyse avancée",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "6h", "THE" : "90h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-géométrie : similitudes planes, barycentres, isométries de l'espace
+    -suites et séries numériques
+    -suites et séries de fonctions, séries entières
+    -séries de Fourier
+    -équations différentielles",
+    "Objectif" : "Connaître différents concepts de géométrie, les notions de suites et séries de fonctions, la résolution d'équations différentielles, et développer le raisonnement scientifique.",
+    "Technologies" : ["Matlab"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau","ingénieur informatique","data engineer"],
+    "OuvertTC" : true
+},
+
+"PHYS02": {
+    "Titre": "Mécanique",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "6h", "THE" : "90h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "En se limitant aux ensembles matériels constitués de solides indéformables.
+    -modéliser les actions mécaniques (torseur d'action mécanique, densité de force contact, frottement)
+    -étudier la cinématique (torseur cinématique, accélérations)
+    -déterminer les quantités cinétiques et dynamiques (torseurs cinétique et dynamique, énergie cinétique, puissance)
+    -poser, mettre en équations et résoudre des problèmes de statique et dynamique
+    -interpréter les résultats obtenus vis-à-vis du fonctionnement du système modélisé",
+    "Objectif" : "La mécanique des solides indéformables permet de comprendre et décrire le fonctionnement de systèmes utilisés autant dans la vie courante que dans le monde industriel. C'est une science indispensable pour la conception des systèmes mécaniques.",
+    "Technologies" : ["Matlab","creo"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"PHYS03": {
+    "Titre": "Champs, ondes, vibrations, propagation",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "6h", "THE" : "90h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-décrire physiquement et mathématiquement les champs (statiques, amortis, oscillants) et les ondes (scalaires, vectorielles)
+    -reconnaître, poser et résoudre des équations d'ondes simples
+    -déterminer des solutions d'équations d'onde en fonction des conditions limites, manipuler et exploiter leurs principales propriétés (propagation, dispersion, propagation dans un guide, ondes stationnaires...)
+    -identifier, connaître et exploiter les phénomènes (interférences, diffraction...)
+    -établir des liens entre les expressions mathématiques, les propriétés physiques, les phénomènes observables",
+    "Objectif" : "En ingénierie, les champs et les ondes interviennent dans la caractérisation des matériaux, les télécommunications, la mécanique, la métrologie, l'électromagnétisme... Ils permettent de décrire et comprendre des phénomènes à toutes échelles",
+    "Technologies" : ["Matlab","creo"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"PHYS04": {
+    "Titre": "Thermique, énergétique et machines thermodynamiques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "6h", "THE" : "90h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-comprendre la notion d'équation d'état et savoir comment la construire pour un gaz
+    -comprendre la notion d'énergie interne, déterminer les travaux de forces et les quantités de chaleur échangés pour des évolutions simples de systèmes fermés
+    -identifier les différentes formes d'échange de chaleur et appliquer les lois élémentaires et équations associées (conduction, convection, rayonnement)
+    -comprendre la notion d'entropie et le fonctionnement des machines thermodynamiques
+    -étudier des cycles de moteurs et générateurs et calculer leur efficacité",
+    "Objectif" : "En ingénierie, les propriétés thermodynamiques concernent les matériaux, les dispositifs et machines produisant ou exploitant de l'énergie comme les systèmes de transport, de transformation, de chauffage, de refroidissement",
+    "Technologies" : ["Matlab","creo"],
+    "Modalite" : ["median","final","controle continu","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"PHYS12": {
+    "Titre": "Physique pour l'ingénieur : Electromagnétisme",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "26h", "TP" : "15h", "THE" : "79h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "-définir les bases de l'électromagnétisme
+    -lois générales de l'électricité, de l'électrocinétique, de l'électrostatique et de la magnétostatique
+    -notion de champs, de charge
+    -notion de circuits électrocinétiques
+    -décrire avec des mots et mathématiquement les façons dont les concepts électromagnétiques peuvent intervenir
+    dans des situations particulières
+    -représenter des champs et phénomènes électromagnétiques mathématiquement dans de telles situations
+    -prédire les résultats dans d'autres situations similaires",
+    "Objectif" : "-introduire l'électromagnétisme par des exemples pris dans la vie de tous les jours. Susciter la curiosité de
+    l'étudiants autour des phénomènes observés
+    -donner les bases du raisonnement scientifique en s'appuyant sur l'électricité et le magnétisme
+    -apprendre à modéliser des phénomènes et en particulier des circuits électromagnétiques en utilisant les mathématiques",
+    "Technologies" : [],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique","ingénieur matériau"],
+    "OuvertTC" : true
+},
+
+"NF06": {
+    "Titre": "Pratique de la programmation",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "12h", "THE" : "82h" ,"PRJ" : "6h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["TC"],
+    "Filiere": ["TC"],
+    "Programme": "Le programme s'appuie sur les notions basiques de l'écriture de programmes en langage C : types, opérateurs, structures de contrôle, et tableaux.
+    Les notions suivantes sont étudiées :
+    -notions de C : structures, fonctions, pointeurs, variables dynamiques, fichiers
+    -nootions de Python : types, opérateurs, instructions de base, structures, fonctions, variables globales et locales, fichiers, notion de classes / méthodes, structures de bibliothèques classiques.
+    -réalisation de projets)",
+    "Objectif" : "Etre familier avec le typage des variables, les structures de données, et la conception de programmes structurés.
+    Savoir écrire un programme en C et en Python, en portant de l'importance à la qualité logicielle.",
+    "Technologies" : ["C","Python"],
+    "Modalite" : ["median","final","projet"],
+    "Métiers" : ["ingénieur génie informatique","data scientist","developpeur logiciel"],
+    "OuvertTC" : true
+},
+
+GM:
+"MQ01": {
+    "Titre": "Introduction à la mécanique des matériaux et des structures",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "12h", "THE" : "82h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "-maitriser la statique des structures et des systèmes
+    -savoir déterminer les contraintes mécaniques maximales et les déplacements induits par les efforts extérieurs appliqués à une structure
+    -savoir identifier et résoudre l'équilibre et les déformées de structures hyperstatiques
+    -savoir dimensionner et/ou vérifier une structure soumise au flambage
+    -savoir s'autoévaluer via les résultats aux QCM de contrôles continus",
+    "Objectif" : "La mécanique des structures concerne l'étude du comportement des corps solides déformables soumis à un chargement. Elle permet d'évaluer la capacité de ce corps à supporter ce chargement. Ce cours introductif se limite au cas des structures en forme de poutre subissant de petites perturbations sous l'effet des charges. A l'issue de ce cours, l'étudiant saura maîtriser les concepts de base de déformations et de contraintes et saura vérifier et/ou dimensionner une structure constituée d'une ou plusieurs poutres.",
+    "Technologies" : [],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : true
+},
+
+"MQ03": {
+    "Titre": "Etudes dynamique et vibratoire de systèmes mécaniques",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "20h", "THE" : "70h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "-savoir réaliser l'étude cinématique, cinétique, équilibrage des systèmes mécaniques
+    -savoir réaliser l'étude dynamique, énergétique et établir les équations de l'équilibre dynamique
+    -savoir modéliser les systèmes discrets avec ou sans amortissement, savoir calculer leur réponse en oscillations libres et forcées
+    -savoir modéliser les systèmes continus en oscillations libres et forcées
+    -connaître l'analyse des chocs, vibrations aléatoires, étouffeur de vibrations, décomposition modale
+    -savoir mettre en œuvre des applications sur maquettes réelles et via des simulations numériques",
+    "Objectif" : "Etre capable de prendre en compte les effets dynamiques et vibratoires sur les mouvements et les efforts de systèmes mécaniques.",
+    "Technologies" : [],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : true
+},
+
+"MQ07": {
+    "Titre": "Mécanique des fluides",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "21h", "THE" : "73h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "-connaître les propriétés des fluides
+    -savoir effectuer les équilibres des fluides dans le cas hydrostatique
+    -mettre en œuvre la cinétique des fluides (Eulérien/Lagrangien, lignes et tubes de courant)
+    -savoir calculer les écoulements dans les fluides parfaits (non visqueux)
+    -savoir calculer les écoulements dans les fluides visqueux",
+    "Objectif" : "-étudier les propriétés des fluides
+    -analyser et quantifier leurs influences sur les systèmes mécaniques",
+    "Technologies" : [],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : true
+},
+
+"MT13": {
+    "Titre": "Méthodes numériques pour l'ingénieur",
+    "Type": "CS",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "28h", "TP" : "21h", "THE" : "73h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "-savoir poser la forme forte d'un problème physique et connaître la classification en problèmes elliptiques, paraboliques et hyperboliques
+    -connaître la méthode des différences finies (DF) pour résoudre des EDP stationnaires et application à des problèmes 1D et 2D
+    -connaître la méthode des éléments finis (EF) pour résoudre des EDP stationnaires et application à des problèmes 1D et 2D
+    -connaître les méthodes de résolution des problèmes linéaires : méthodes de Gauss, décomposition LU, Cholesky, conditionnement des matrices
+    -connaître les méthodes itératives de résolution des problèmes non linéaires : Méthode de Jacobi, Gauss-Seidel, Newton-Raphson, notion de convergence
+    -savoir appliquer toutes ces méthodes à la résolution de problèmes par EF et ou DF",
+    "Objectif" : "Dans de nombreux problèmes de l'ingénierie, l'obtention de solutions exactes est impossible à cause de la complexité du domaine de résolution et/ou de la non-linéarité des équations du problème. Le recours à des méthodes numériques est alors indispensable pour obtenir des solutions approchées.",
+    "Technologies" : [],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : false
+},
+
+"TN12": {
+    "Titre": "Introduction à la conception de systèmes mécaniques",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "42h", "TP" : "80h", "THE" : "30h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "-savoir analyser un besoin client et spécifier les fonctions techniques d'un produit en tenant compte des contraintes réglementaires (environnement, sécurité,...)
+    -identifier les technologies pertinentes pour satisfaire les fonctions techniques
+    -savoir choisir et dimensionner des composants technologiques de bases (pour transmettre une puissance et/ou guider un mouvement,...)
+    -proposer des éléments de cotations dimensionnelles et géométriques pour contribuer au choix des procédés de fabrication.
+    -produire l4ensemble des documents nécessaires (CAO, notices de calculs) dans un environnement de travail collaboratif",
+    "Objectif" : "A partir d'un cahier des charges, la conception de systèmes mécaniques est un processus complexe visant à produire l'ensemble des informations permettant de décrire complétement et de fabriquer celui-ci. A l'issu de cet enseignement les étudiants sauront conduire ce processus sur un exemple simple par une mise en situation concrète sur un projet.",
+    "Technologies" : ["creo"],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : false
+},
+
+"TN14": {
+    "Titre": " Introduction à la modélisation 3D",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "42h", "TP" : "80h", "THE" : "30h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "Manipuler les applications de CAO
+    - Créer des esquisses correctement contraintes
+    - Utiliser les fonctions de création de géométrie
+    - Utiliser les opérations de transformation
+    - Organiser une démarche de modélisation
+    Utiliser la CAO pour favoriser la continuité numérique
+    -utiliser les fonctions adaptées aux procédés de fabrication
+    -réutiliser des informations pour modéliser une pièce
+    -modéliser la géométrie de chaque étape de fabrication en assurant l¿associativité des modèles obtenus
+    Manipuler les méthodes de modélisation
+    -modéliser un assemblage",
+    "Objectif" : "-utiliser deux applications de modélisation 3D
+    -utiliser les méthodes de modélisation volumiques
+    -comprendre le rôle de la CAO
+    -comprendre les intentions de conception et proposer les démarches de modélisation associées",
+    "Technologies" : ["creo","CATIA"],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : false
+},
+
+"EV11": {
+    "Titre": " Introduction à la modélisation 3D",
+    "Type": "TM",
+    "Credits": 6,
+    "Repartition": {"C" : "28h", "TD" : "42h", "TP" : "80h", "THE" : "30h" ,"PRJ" : "0h"},
+    "Disponibilité": ["Automne","Printemps"],
+    "Langue" : ["Français"],
+    "Branche" : ["GM"],
+    "Filiere": ["TCBR"],
+    "Programme": "Manipuler les applications de CAO
+    - Créer des esquisses correctement contraintes
+    - Utiliser les fonctions de création de géométrie
+    - Utiliser les opérations de transformation
+    - Organiser une démarche de modélisation
+    Utiliser la CAO pour favoriser la continuité numérique
+    -utiliser les fonctions adaptées aux procédés de fabrication
+    -réutiliser des informations pour modéliser une pièce
+    -modéliser la géométrie de chaque étape de fabrication en assurant l¿associativité des modèles obtenus
+    Manipuler les méthodes de modélisation
+    -modéliser un assemblage",
+    "Objectif" : "-utiliser deux applications de modélisation 3D
+    -utiliser les méthodes de modélisation volumiques
+    -comprendre le rôle de la CAO
+    -comprendre les intentions de conception et proposer les démarches de modélisation associées",
+    "Technologies" : ["creo","CATIA"],
+    "Modalite" : ["median","final","TP"],
+    "Métiers" : ["ingénieur génie mécanique"],
+    "OuvertTC" : false
 },
 
 RT :
