@@ -1607,7 +1607,7 @@ TC :
     "Langue" : ["Français"],
     "Branche" : ["TC"],
     "Filiere": ["TC"],
-    "Programme": "-logique et raisonnement \n-suites numériques \n -applications, fonction d'une variable réelle : limites et continuité \n-fonctions d'une variable réelle : dérivabilité \n-fonctions réciproques \n-intégrale simple",
+    "Programme": "-logique et raisonnement \n -suites numériques \n -applications, fonction d'une variable réelle : limites et continuité \n-fonctions d'une variable réelle : dérivabilité \n-fonctions réciproques \n-intégrale simple",
     "Objectif" : "-connaître les concepts liés aux fonctions d'une variable réelle et développer le raisonnement scientifique",
     "Technologies" : [],
     "Modalite" : ["median","final", "TP"],
@@ -1624,12 +1624,7 @@ TC :
     "Langue" : ["Français"],
     "Branche" : ["TC"],
     "Filiere": ["TC"],
-    "Programme": "-systèmes linéaires
-    -trigonométrie et complexes
-    -polynômes
-    -séries numériques
-    -développements limités
-    -courbes paramétrées",
+    "Programme": "-systèmes linéaires \n -trigonométrie et complexes \n -polynômes \n -séries numériques \n -développements limités \n -courbes paramétrées",
     "Objectif" : "-connaître différents concepts de base en algèbre et analyse, et développer le raisonnement scientifique",
     "Technologies" : [],
     "Modalite" : ["median","final"],
@@ -1646,11 +1641,7 @@ TC :
     "Langue" : ["Français"],
     "Branche" : ["TC"],
     "Filiere": ["TC"],
-    "Programme": "-comprendre et acquérir les connaissances, les concepts et modèles de base en physico­chimie
-    -être capable de décrire et de prévoir la réactivité d'un système chimique qualitativement et quantitativement dans des contextes variés
-    -choisir et mettre en œuvre des méthodes d'analyse chimique et de caractérisation pertinentes de produits
-    d'usages courants
-    -apprendre à respecter les règles d'hygiène et de sécurité en laboratoire",
+    "Programme": "-comprendre et acquérir les connaissances, les concepts et modèles de base en physico­chimie \n -être capable de décrire et de prévoir la réactivité d'un système chimique qualitativement et quantitativement dans des contextes variés \n -choisir et mettre en œuvre des méthodes d'analyse chimique et de caractérisation pertinentes de produits d'usages courants \n -apprendre à respecter les règles d'hygiène et de sécurité en laboratoire",
     "Objectif" : "apprendre à décrire un système physicochimique, de prévoir et modéliser son évolution, et de quantifier la matière produite dans des contextes variés comme l'alimentation, l'utilisation de produits d'usages courants ou dans des processus industriels.",
     "Technologies" : [],
     "Modalite" : ["median","final"],
@@ -1667,12 +1658,7 @@ TC :
     "Langue" : ["Français"],
     "Branche" : ["TC"],
     "Filiere": ["TC"],
-    "Programme": "-formaliser un problème et rédiger les spécifications associées
-    -connaître les structures de contrôle
-    -connaitre les structures de données statiques et dynamiques
-    -maitriser l'approche descendante pour la résolution de problèmes
-    -avoir des notions sur l'évaluation des performances d'une solution
-    -traduire un algorithme simple en programme (découverte de deux langages:C et Visual Basic)",
+    "Programme": "-formaliser un problème et rédiger les spécifications associées \n -connaître les structures de contrôle \n -connaitre les structures de données statiques et dynamiques \n -maitriser l'approche descendante pour la résolution de problèmes \n -avoir des notions sur l'évaluation des performances d'une solution \n -traduire un algorithme simple en programme (découverte de deux langages:C et Visual Basic)",
     "Objectif" : "étudier la formalisation de problèmes, des démarches de résolution, des solutions typiques et d'en caractériser les propriétés",
     "Technologies" : ["C","Python"],
     "Modalite" : ["median","final","projet"],
