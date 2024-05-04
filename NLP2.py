@@ -1,9 +1,14 @@
-import re 
+# Description: Ce fichier contient le code principal de notre chatbot. Il permet de traiter les demandes de l'utilisateur et de générer 
+# des réponses en fonction de l'intention de l'utilisateur.
+# Auteur: Mohamed Amine Jabote/ Youssef Sidqui/ Freddy Pouna Wantou
+
+
 import nltk
 import spacy
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
+# Importer les fonctions des autres fichiers
 from intention_detection import predire_intention_utilisateur
 from technology_detection import detecter_technologie_demandee
 from extraire_UE import extraire_info_matiere
@@ -19,21 +24,6 @@ nlp = spacy.load("fr_core_news_sm")
 
 
 
-# def extraire_metier_demande(phrase):
-    # Utiliser une expression régulière pour trouver un motif de métier après "devenir"
-    #match = re.search(r'je veux devenir (\w+(?: \w+)*)', phrase)
-    #if match:
-        #return match.group(1)
-    #else:
-        #return None
-
-#def trouver_matieres_par_metier(metier_demande):
-#    matieres_proposees = []
-#    for code_matiere, info_matiere in matieres_database.items():
-#        if metier_demande.lower() in [m.lower() for m in info_matiere["Métiers"]]:
-#            matieres_proposees.append(code_matiere)
-#    return matieres_proposees
-
 
 # Intégrer la prédiction d'intention dans la fonction traiter_entree_utilisateur
 def traiter_entree_utilisateur(phrase):
@@ -48,43 +38,6 @@ def traiter_entree_utilisateur(phrase):
     
     return traiter_intention_utilisateur(intention, mots, phrase)
     
-    if intention == "informations_matière":
-        # Chercher un motif correspondant à un code de matière (deux lettres suivies de chiffres)
-        code_matiere = next((mot for mot in mots if re.match(r'[a-zA-Z]{2}\d{2}', mot)), None)
-        if code_matiere:
-            # Récupérer les informations de la matière
-            matiere_info = extraire_info_matiere(code_matiere)
-            if matiere_info:
-                # Construire et formater la réponse
-                response = f"{matiere_info['Titre']}({code_matiere})\n"
-                response += f"Ce cours est une {matiere_info['Type']} qui concerne les {', '.join(matiere_info['branche'])}({', '.join(matiere_info['Filiere'])}), avec un nombre de crédits qui est {matiere_info['Credits']} crédits, il est disponible en {', '.join(matiere_info['disponibilité'])} et est enseigné en {', '.join(matiere_info['Langue'])}\n"
-                response += f"Contenu du cours : \n Les étuiants auront l'occasion d'apprendre \n {matiere_info['Programme']}\n"
-                response += "En ce qui concerne la répartition horaire:\n"
-                for key, value in matiere_info['Repartition'].items():
-                    response += f"- {key}: {value}\n"
-                response += f"L'objectif du cours est {matiere_info['Objectif']}\n"
-                response += f"Les technologies utilisées :\n Les technologies principales abordées dans ce cours sont {', '.join(matiere_info['Technologies'])}\n"
-                response += f"\nPour les modalités d'évaluation {', '.join(matiere_info['Modalite'])} \n"
-                response += "\nDébouchés professionnels:\n"
-                for metier in matiere_info['Métiers']:
-                    response += f"- {metier}\n"
-                response += "Pour plus d'informations, veuillez consulter le site de l'UTT ou demander à la scolarité.\n"
-                return response
-            else:
-                return f"Les informations pour la matière {code_matiere} n'ont pas été trouvées."
-        else:
-            return "Désolé, je ne comprends pas votre demande."
-    elif intention == "matières_utilisant_technologie":
-        entite_technologie = detecter_technologie_demandee(phrase)
-        matieres_trouvees = trouver_matieres_par_technologie(entite_technologie)
-        return generer_reponse_matieres_par_technologie(matieres_trouvees,entite_technologie)
-    # Ajoute d'autres conditions pour les différentes intentions...
-    elif intention == "metiers":
-        # Appeler la fonction pour proposer des matières liées à un métier
-        metier_demande = extraire_metier_demande(phrase)
-        matieres_trouvees = trouver_matieres_par_metier(metier_demande)
-        print(matieres_trouvees)
-
 
 while True:
     
