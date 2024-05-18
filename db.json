@@ -98,7 +98,7 @@
     "Objectif" : "A la fin de ce cours, l'étudiant sera en mesure de mettre en œuvre une infrastructure logicielle et la faire évoluer pour répondre au mieux aux besoins des usagers.",
     "Technologies" : ["sgbd", "oracle", "aws", "docker"],
     "Modalite" : ["final", "projet", "controles continus"],
-    "Métiers" : ["administrateur système", "ingénieur réseau", "ingénieur cloud", "administrateur de bases de données", "architecte cloud", "ingénieur en virtualisation", "architecte en sécurité informatique", "consultant en infrastructure informatique", "analyste en gestion des données", "spécialiste en stockage de données", "ingénieur devops"],
+    "Métiers" : ["administrateur système", "ingénieur réseau", "ingénieur cloud", "administrateur de bases de données", "architecte cloud", "ingénieur en virtualisation", "architecte en sécurité informatique", "consultant en infrastructure informatique", "analyste en gestion des données", "spécialiste en stockage de données", "ingénieur devops","ingénieur des données", "ingénieur de data","data engineer"],
     "OuvertTC" : true
 },
 
@@ -1772,7 +1772,7 @@
     "Objectif": "La sécurité des systèmes de communications et des réseaux repose très largement sur des méthodes de cryptographie. En outre, les algorithmes de chiffrement sont toujours utilisés dans des processus incluant signature électronique, authentification et échanges de clés. ",
     "technologies": ["outils de chiffrement","outils de hashage"],
     "Modalite": ["Projet","final"],
-    "Métiers": ["ingénieur en réseaux et systèmes","cryptographe","ingénieur cybersécurité"],
+    "Métiers": ["ingénieur en réseaux et systèmes","cryptographe","ingénieur cybersécurité", "ingénieur en cybersécurité"],
     "OuvertTC": false
 },
 "IF27": {
@@ -1788,7 +1788,7 @@
     "Objectif": "Connaître et comprendre les outils et démarches de sécurisation des données et des services. ",
     "technologies": ["TCP"],
     "Modalite": ["controles continus","Projet"],
-    "Métiers": ["ingénieur en réseaux et systèmes","consultant en sécurité des données","ingénieur cybersécurité"],
+    "Métiers": ["ingénieur en réseaux et systèmes","consultant en sécurité des données","ingénieur cybersécurité","ingénieur en cybersécurité"],
     "OuvertTC": false
 },
 "RE16": {
@@ -1804,7 +1804,7 @@
     "Objectif": "Plusieurs moyens d'agir doivent être combinés pour assurer la sécurité des communications et des infrastructures informatiques : au niveau des applications elles-mêmes, au niveau du système d'exploitation des ordinateurs, et au niveau du réseau lui-même. RE16 est centrée sur la contribution du réseau à la sécurité informatique.",
     "technologies": ["vpn","firewall"],
     "Modalite": ["TP","median","projet"],
-    "Métiers": ["ingénieur en réseaux et systèmes","architecte de sécurité réseau","ingénieur cybersécurité"],
+    "Métiers": ["ingénieur en réseaux et systèmes","architecte de sécurité réseau","ingénieur cybersécurité", "ingénieur en cybersécurité"],
     "OuvertTC": false
 },
 "SY22": {
@@ -1836,7 +1836,7 @@
     "Objectif": "L'Objectif de l'UE est de comprendre les concepts de la géolocalisation outdoor, par satellites (GNSS), et indoor, grâce à des signaux de communication.",
     "technologies": ["gnss"],
     "Modalite": ["median","projet"],
-    "Métiers": ["ingénieur en réseaux et systèmes","ingénieur en géolocalisation","ingénieur cybersécurité","ingénieur en navigation par satellite"],
+    "Métiers": ["ingénieur en réseaux et systèmes","ingénieur en géolocalisation","ingénieur cybersécurité", "ingénieur en cybersécurité","ingénieur en navigation par satellite"],
     "OuvertTC": false
 },
 "SY23": {
